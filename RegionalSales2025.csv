@@ -1,0 +1,1001 @@
+OrderID,Date,CustomerID,Region,ProductName,Category,Quantity,UnitPrice,TotalAmount,OrderStatus,SalesAgent
+ORD000001,12/13/2025,CUST1279,East,Headphones,Electronics,4,2833,11332,Completed,Agent_2
+ORD000002,1/14/2025,CUST1287,East,Laptop,Electronics,2,51905,103810,Completed,Agent_4
+ORD000003,1/4/2025,CUST1081,East,Football,Sports,4,1187,4748,Completed,Agent_12
+ORD000004,2/17/2025,CUST1194,South,T-Shirt,Clothing,4,873,3492,Completed,Agent_2
+ORD000005,10/2/2025,CUST1063,South,Jacket,Clothing,5,3714,18570,Cancelled,Agent_15
+ORD000006,4/9/2025,CUST1035,South,Football,Sports,10,1292,12920,Completed,Agent_1
+ORD000007,8/21/2025,CUST1325,East,T-Shirt,Clothing,4,858,3432,Completed,Agent_14
+ORD000008,12/16/2025,CUST1331,South,Jeans,Clothing,4,1861,7444,Completed,Agent_2
+ORD000009,11/24/2025,CUST1285,East,Bookshelf,Furniture,4,8394,33576,Completed,Agent_4
+ORD000010,2/3/2025,CUST1108,East,Smartphone,Electronics,1,26525,26525,Completed,Agent_15
+ORD000011,8/23/2025,CUST1073,West,T-Shirt,Clothing,8,783,6264,Cancelled,Agent_5
+ORD000012,10/26/2025,CUST1204,North,Yoga Mat,Sports,5,1574,7870,Completed,Agent_6
+ORD000013,2/26/2025,CUST1078,North,Bookshelf,Furniture,8,8263,66104,Completed,Agent_11
+ORD000014,8/28/2025,CUST1270,North,Tea Pack,Grocery,2,488,976,Completed,Agent_5
+ORD000015,6/24/2025,CUST1057,West,Laptop,Electronics,9,57759,519831,Completed,Agent_5
+ORD000016,9/17/2025,CUST1054,South,Rice Bag,Grocery,5,1313,6565,Cancelled,Agent_14
+ORD000017,10/4/2025,CUST1271,East,Yoga Mat,Sports,4,1395,5580,Completed,Agent_15
+ORD000018,6/7/2025,CUST1122,North,Jeans,Clothing,1,1660,1660,Completed,Agent_1
+ORD000019,9/30/2025,CUST1064,North,Cricket Bat,Sports,2,2615,5230,Completed,Agent_3
+ORD000020,4/19/2025,CUST1276,East,Cricket Bat,Sports,5,2513,12565,Completed,Agent_13
+ORD000021,7/11/2025,CUST1224,East,Bookshelf,Furniture,5,8818,44090,Completed,Agent_15
+ORD000022,10/11/2025,CUST1117,South,Smartphone,Electronics,4,22820,91280,Completed,Agent_10
+ORD000023,6/19/2025,CUST1036,North,Laptop,Electronics,4,50241,200964,Completed,Agent_9
+ORD000024,10/20/2025,CUST1295,North,Rice Bag,Grocery,9,1111,9999,Cancelled,Agent_8
+ORD000025,7/1/2025,CUST1216,North,Cooking Oil,Grocery,4,1653,6612,Completed,Agent_7
+ORD000026,2/25/2025,CUST1127,South,Laptop,Electronics,1,53928,53928,Completed,Agent_4
+ORD000027,2/8/2025,CUST1226,North,Rice Bag,Grocery,7,1124,7868,Completed,Agent_13
+ORD000028,1/8/2025,CUST1047,West,Cricket Bat,Sports,1,2576,2576,Completed,Agent_15
+ORD000029,7/25/2025,CUST1030,West,Office Chair,Furniture,7,6979,48853,Completed,Agent_3
+ORD000030,10/12/2025,CUST1338,South,Cooking Oil,Grocery,8,1722,13776,Completed,Agent_12
+ORD000031,10/5/2025,CUST1031,South,Desk,Furniture,4,13124,52496,Completed,Agent_12
+ORD000032,1/30/2025,CUST1260,North,Smartwatch,Electronics,9,8671,78039,Completed,Agent_2
+ORD000033,10/19/2025,CUST1126,West,Laptop,Electronics,4,53941,215764,Cancelled,Agent_10
+ORD000034,6/11/2025,CUST1133,East,Cricket Bat,Sports,7,2578,18046,Completed,Agent_4
+ORD000035,6/3/2025,CUST1234,East,T-Shirt,Clothing,5,783,3915,Completed,Agent_6
+ORD000036,2/21/2025,CUST1037,West,Laptop,Electronics,8,56332,450656,Completed,Agent_9
+ORD000037,7/9/2025,CUST1145,North,T-Shirt,Clothing,6,860,5160,Completed,Agent_3
+ORD000038,12/1/2025,CUST1270,South,Yoga Mat,Sports,5,1533,7665,Returned,Agent_1
+ORD000039,3/1/2025,CUST1054,East,Football,Sports,2,1305,2610,Completed,Agent_12
+ORD000040,12/18/2025,CUST1324,East,Jeans,Clothing,10,1695,16950,Completed,Agent_14
+ORD000041,5/22/2025,CUST1022,North,Cooking Oil,Grocery,1,1653,1653,Completed,Agent_1
+ORD000042,12/28/2025,CUST1218,North,Bookshelf,Furniture,5,8390,41950,Completed,Agent_9
+ORD000043,10/10/2025,CUST1075,North,Smartphone,Electronics,9,22680,204120,Completed,Agent_7
+ORD000044,5/8/2025,CUST1341,North,Jeans,Clothing,1,1943,1943,Completed,Agent_2
+ORD000045,5/2/2025,CUST1083,South,Football,Sports,10,1259,12590,Returned,Agent_13
+ORD000046,7/30/2025,CUST1342,West,Rice Bag,Grocery,3,1256,3768,Completed,Agent_14
+ORD000047,1/20/2025,CUST1240,East,Desk,Furniture,3,12689,38067,Completed,Agent_4
+ORD000048,4/25/2025,CUST1012,North,Cooking Oil,Grocery,5,1915,9575,Completed,Agent_11
+ORD000049,11/25/2025,CUST1260,North,Jeans,Clothing,2,1968,3936,Completed,Agent_7
+ORD000050,4/2/2025,CUST1297,East,Football,Sports,1,1107,1107,Returned,Agent_5
+ORD000051,11/7/2025,CUST1261,North,Football,Sports,6,1254,7524,Completed,Agent_2
+ORD000052,9/24/2025,CUST1275,South,Cricket Bat,Sports,5,2272,11360,Completed,Agent_11
+ORD000053,6/19/2025,CUST1319,East,Desk,Furniture,7,10967,76769,Completed,Agent_6
+ORD000054,7/26/2025,CUST1151,East,Headphones,Electronics,9,2885,25965,Completed,Agent_9
+ORD000055,11/12/2025,CUST1291,North,Tea Pack,Grocery,7,517,3619,Cancelled,Agent_5
+ORD000056,11/7/2025,CUST1335,South,Headphones,Electronics,5,2826,14130,Cancelled,Agent_6
+ORD000057,3/28/2025,CUST1337,South,Tea Pack,Grocery,4,501,2004,Cancelled,Agent_2
+ORD000058,12/11/2025,CUST1158,North,Football,Sports,2,1276,2552,Completed,Agent_4
+ORD000059,2/7/2025,CUST1233,West,Office Chair,Furniture,1,6642,6642,Completed,Agent_7
+ORD000060,12/2/2025,CUST1002,West,Cricket Bat,Sports,7,2497,17479,Completed,Agent_15
+ORD000061,9/23/2025,CUST1237,West,Smartwatch,Electronics,4,7481,29924,Returned,Agent_1
+ORD000062,10/14/2025,CUST1304,East,Smartwatch,Electronics,3,8482,25446,Completed,Agent_6
+ORD000063,8/17/2025,CUST1081,West,Tea Pack,Grocery,9,492,4428,Cancelled,Agent_12
+ORD000064,9/24/2025,CUST1248,West,Cooking Oil,Grocery,4,1922,7688,Completed,Agent_11
+ORD000065,10/4/2025,CUST1041,North,Rice Bag,Grocery,5,1136,5680,Completed,Agent_3
+ORD000066,7/28/2025,CUST1169,North,Tea Pack,Grocery,3,520,1560,Completed,Agent_9
+ORD000067,12/23/2025,CUST1010,South,Smartphone,Electronics,7,24447,171129,Cancelled,Agent_14
+ORD000068,7/19/2025,CUST1214,West,Football,Sports,8,1081,8648,Completed,Agent_9
+ORD000069,9/6/2025,CUST1014,East,Yoga Mat,Sports,4,1496,5984,Completed,Agent_7
+ORD000070,11/15/2025,CUST1273,North,Tea Pack,Grocery,3,534,1602,Cancelled,Agent_1
+ORD000071,8/25/2025,CUST1093,West,Yoga Mat,Sports,1,1375,1375,Completed,Agent_1
+ORD000072,7/14/2025,CUST1142,North,T-Shirt,Clothing,8,772,6176,Completed,Agent_13
+ORD000073,1/27/2025,CUST1179,West,Cooking Oil,Grocery,2,1789,3578,Completed,Agent_4
+ORD000074,3/20/2025,CUST1122,East,Laptop,Electronics,4,51692,206768,Completed,Agent_3
+ORD000075,3/27/2025,CUST1310,South,Smartphone,Electronics,8,25997,207976,Cancelled,Agent_10
+ORD000076,6/9/2025,CUST1294,West,Smartphone,Electronics,5,23040,115200,Completed,Agent_11
+ORD000077,11/18/2025,CUST1124,West,Cooking Oil,Grocery,4,1647,6588,Completed,Agent_2
+ORD000078,10/17/2025,CUST1021,East,Jacket,Clothing,10,3713,37130,Cancelled,Agent_6
+ORD000079,8/4/2025,CUST1250,South,T-Shirt,Clothing,9,823,7407,Completed,Agent_2
+ORD000080,9/25/2025,CUST1333,South,Jacket,Clothing,8,3645,29160,Completed,Agent_5
+ORD000081,5/18/2025,CUST1165,East,Football,Sports,8,1184,9472,Completed,Agent_14
+ORD000082,11/9/2025,CUST1342,North,Headphones,Electronics,8,2846,22768,Completed,Agent_7
+ORD000083,5/13/2025,CUST1174,North,Cooking Oil,Grocery,3,1795,5385,Completed,Agent_5
+ORD000084,5/4/2025,CUST1208,West,Jacket,Clothing,1,3511,3511,Completed,Agent_8
+ORD000085,1/9/2025,CUST1047,East,Bookshelf,Furniture,8,9262,74096,Completed,Agent_5
+ORD000086,6/26/2025,CUST1217,North,Desk,Furniture,10,11685,116850,Completed,Agent_12
+ORD000087,3/3/2025,CUST1098,East,Jacket,Clothing,8,3339,26712,Completed,Agent_6
+ORD000088,5/22/2025,CUST1301,North,Yoga Mat,Sports,3,1407,4221,Completed,Agent_13
+ORD000089,6/4/2025,CUST1007,South,T-Shirt,Clothing,4,767,3068,Completed,Agent_12
+ORD000090,3/6/2025,CUST1326,South,T-Shirt,Clothing,1,808,808,Completed,Agent_14
+ORD000091,6/24/2025,CUST1094,West,Laptop,Electronics,10,52627,526270,Completed,Agent_1
+ORD000092,11/19/2025,CUST1027,North,Rice Bag,Grocery,2,1176,2352,Completed,Agent_3
+ORD000093,8/2/2025,CUST1310,North,Football,Sports,2,1318,2636,Completed,Agent_10
+ORD000094,10/29/2025,CUST1219,West,Bookshelf,Furniture,7,8910,62370,Completed,Agent_5
+ORD000095,2/11/2025,CUST1080,East,Laptop,Electronics,4,56380,225520,Completed,Agent_4
+ORD000096,8/29/2025,CUST1149,North,Smartphone,Electronics,1,24542,24542,Completed,Agent_1
+ORD000097,5/16/2025,CUST1320,North,Jacket,Clothing,8,3199,25592,Completed,Agent_10
+ORD000098,5/17/2025,CUST1072,East,Desk,Furniture,2,12106,24212,Completed,Agent_2
+ORD000099,8/28/2025,CUST1155,North,Jacket,Clothing,10,3794,37940,Completed,Agent_12
+ORD000100,1/21/2025,CUST1221,South,Jacket,Clothing,9,3495,31455,Completed,Agent_12
+ORD000101,10/22/2025,CUST1300,North,T-Shirt,Clothing,2,756,1512,Completed,Agent_1
+ORD000102,9/23/2025,CUST1333,West,Jacket,Clothing,1,3684,3684,Completed,Agent_8
+ORD000103,2/16/2025,CUST1240,West,Bookshelf,Furniture,7,9242,64694,Completed,Agent_6
+ORD000104,12/22/2025,CUST1253,South,Jacket,Clothing,2,3750,7500,Completed,Agent_5
+ORD000105,6/15/2025,CUST1059,East,Tea Pack,Grocery,1,495,495,Completed,Agent_13
+ORD000106,9/23/2025,CUST1185,South,Cricket Bat,Sports,9,2480,22320,Completed,Agent_10
+ORD000107,5/28/2025,CUST1224,West,Rice Bag,Grocery,4,1144,4576,Completed,Agent_15
+ORD000108,6/9/2025,CUST1282,East,Laptop,Electronics,10,58292,582920,Completed,Agent_1
+ORD000109,3/20/2025,CUST1255,East,Smartphone,Electronics,2,24807,49614,Completed,Agent_15
+ORD000110,8/30/2025,CUST1124,East,Yoga Mat,Sports,5,1474,7370,Completed,Agent_8
+ORD000111,2/5/2025,CUST1141,East,Rice Bag,Grocery,10,1201,12010,Returned,Agent_13
+ORD000112,6/2/2025,CUST1300,West,Cooking Oil,Grocery,9,1716,15444,Completed,Agent_10
+ORD000113,10/10/2025,CUST1278,West,Rice Bag,Grocery,8,1209,9672,Completed,Agent_7
+ORD000114,7/30/2025,CUST1022,South,T-Shirt,Clothing,4,811,3244,Completed,Agent_6
+ORD000115,9/15/2025,CUST1302,East,Cooking Oil,Grocery,3,1798,5394,Completed,Agent_6
+ORD000116,3/15/2025,CUST1209,West,Rice Bag,Grocery,9,1298,11682,Completed,Agent_14
+ORD000117,11/16/2025,CUST1203,East,Office Chair,Furniture,8,7394,59152,Completed,Agent_11
+ORD000118,9/7/2025,CUST1277,North,Jacket,Clothing,9,3416,30744,Completed,Agent_1
+ORD000119,8/11/2025,CUST1050,East,Bookshelf,Furniture,5,9895,49475,Completed,Agent_13
+ORD000120,1/24/2025,CUST1166,East,Smartwatch,Electronics,3,8310,24930,Returned,Agent_13
+ORD000121,10/17/2025,CUST1349,North,Jeans,Clothing,7,1672,11704,Completed,Agent_13
+ORD000122,5/4/2025,CUST1254,North,Office Chair,Furniture,10,7519,75190,Completed,Agent_15
+ORD000123,8/27/2025,CUST1147,East,Desk,Furniture,5,11902,59510,Completed,Agent_11
+ORD000124,8/6/2025,CUST1128,South,Smartwatch,Electronics,6,8780,52680,Completed,Agent_8
+ORD000125,7/3/2025,CUST1294,West,Desk,Furniture,8,11055,88440,Completed,Agent_5
+ORD000126,12/18/2025,CUST1025,West,T-Shirt,Clothing,7,763,5341,Completed,Agent_15
+ORD000127,11/22/2025,CUST1097,East,Cooking Oil,Grocery,4,1838,7352,Completed,Agent_10
+ORD000128,6/8/2025,CUST1225,North,Bookshelf,Furniture,2,9726,19452,Completed,Agent_1
+ORD000129,4/13/2025,CUST1067,East,Office Chair,Furniture,5,6757,33785,Completed,Agent_13
+ORD000130,5/12/2025,CUST1246,South,Jacket,Clothing,9,3789,34101,Cancelled,Agent_13
+ORD000131,4/26/2025,CUST1346,North,T-Shirt,Clothing,8,874,6992,Completed,Agent_12
+ORD000132,5/16/2025,CUST1274,East,Tea Pack,Grocery,6,459,2754,Completed,Agent_2
+ORD000133,2/25/2025,CUST1345,South,Jacket,Clothing,7,3725,26075,Returned,Agent_4
+ORD000134,2/2/2025,CUST1325,South,Yoga Mat,Sports,6,1624,9744,Completed,Agent_14
+ORD000135,1/20/2025,CUST1155,South,Jacket,Clothing,7,3231,22617,Completed,Agent_8
+ORD000136,12/23/2025,CUST1276,North,Bookshelf,Furniture,3,8799,26397,Completed,Agent_7
+ORD000137,5/24/2025,CUST1016,East,Desk,Furniture,2,12800,25600,Completed,Agent_12
+ORD000138,12/18/2025,CUST1188,South,Cooking Oil,Grocery,4,1927,7708,Completed,Agent_9
+ORD000139,8/21/2025,CUST1046,West,T-Shirt,Clothing,7,764,5348,Returned,Agent_11
+ORD000140,3/6/2025,CUST1289,North,Cricket Bat,Sports,1,2643,2643,Completed,Agent_4
+ORD000141,6/18/2025,CUST1075,North,Cricket Bat,Sports,10,2357,23570,Completed,Agent_13
+ORD000142,3/31/2025,CUST1056,West,Headphones,Electronics,3,3292,9876,Completed,Agent_11
+ORD000143,6/15/2025,CUST1008,West,Office Chair,Furniture,6,7405,44430,Completed,Agent_3
+ORD000144,9/1/2025,CUST1229,North,Bookshelf,Furniture,7,9046,63322,Completed,Agent_13
+ORD000145,1/23/2025,CUST1337,South,Cricket Bat,Sports,8,2501,20008,Returned,Agent_9
+ORD000146,2/25/2025,CUST1251,North,Laptop,Electronics,8,58820,470560,Completed,Agent_12
+ORD000147,5/21/2025,CUST1319,West,Laptop,Electronics,6,56191,337146,Completed,Agent_11
+ORD000148,11/6/2025,CUST1220,East,Jeans,Clothing,10,1811,18110,Completed,Agent_2
+ORD000149,6/23/2025,CUST1232,West,Smartphone,Electronics,7,24757,173299,Completed,Agent_7
+ORD000150,3/20/2025,CUST1242,South,Headphones,Electronics,7,2887,20209,Completed,Agent_2
+ORD000151,3/8/2025,CUST1284,North,Laptop,Electronics,7,50562,353934,Completed,Agent_1
+ORD000152,12/7/2025,CUST1216,East,Yoga Mat,Sports,6,1551,9306,Completed,Agent_14
+ORD000153,9/17/2025,CUST1108,West,Headphones,Electronics,10,2887,28870,Completed,Agent_3
+ORD000154,5/23/2025,CUST1293,East,Office Chair,Furniture,6,7483,44898,Completed,Agent_4
+ORD000155,11/8/2025,CUST1336,West,Yoga Mat,Sports,10,1552,15520,Completed,Agent_14
+ORD000156,6/23/2025,CUST1179,East,Smartphone,Electronics,5,26013,130065,Completed,Agent_1
+ORD000157,1/16/2025,CUST1046,North,Bookshelf,Furniture,7,8225,57575,Completed,Agent_12
+ORD000158,6/16/2025,CUST1290,South,Cooking Oil,Grocery,8,1742,13936,Completed,Agent_10
+ORD000159,2/11/2025,CUST1139,North,Smartphone,Electronics,3,26272,78816,Completed,Agent_8
+ORD000160,9/20/2025,CUST1058,East,Tea Pack,Grocery,8,491,3928,Completed,Agent_6
+ORD000161,1/24/2025,CUST1112,South,Jacket,Clothing,10,3490,34900,Completed,Agent_7
+ORD000162,3/12/2025,CUST1130,West,Laptop,Electronics,4,52815,211260,Completed,Agent_5
+ORD000163,12/27/2025,CUST1117,North,Smartwatch,Electronics,7,7481,52367,Completed,Agent_9
+ORD000164,1/10/2025,CUST1235,East,T-Shirt,Clothing,7,857,5999,Completed,Agent_15
+ORD000165,8/2/2025,CUST1148,North,Jacket,Clothing,7,3551,24857,Completed,Agent_2
+ORD000166,7/5/2025,CUST1045,South,T-Shirt,Clothing,10,793,7930,Completed,Agent_7
+ORD000167,6/8/2025,CUST1173,West,Desk,Furniture,10,11761,117610,Completed,Agent_4
+ORD000168,4/10/2025,CUST1178,North,Office Chair,Furniture,9,7186,64674,Completed,Agent_6
+ORD000169,11/5/2025,CUST1078,East,Office Chair,Furniture,2,6505,13010,Completed,Agent_13
+ORD000170,10/24/2025,CUST1229,West,Smartphone,Electronics,8,24819,198552,Completed,Agent_11
+ORD000171,6/11/2025,CUST1077,West,Yoga Mat,Sports,10,1446,14460,Returned,Agent_8
+ORD000172,6/30/2025,CUST1259,North,Tea Pack,Grocery,5,529,2645,Completed,Agent_2
+ORD000173,11/27/2025,CUST1046,North,Rice Bag,Grocery,1,1168,1168,Completed,Agent_10
+ORD000174,1/22/2025,CUST1230,East,Cooking Oil,Grocery,10,1819,18190,Cancelled,Agent_15
+ORD000175,2/1/2025,CUST1230,West,Desk,Furniture,10,11941,119410,Completed,Agent_2
+ORD000176,5/7/2025,CUST1224,West,Jacket,Clothing,2,3503,7006,Completed,Agent_8
+ORD000177,7/29/2025,CUST1173,South,Cricket Bat,Sports,6,2436,14616,Completed,Agent_11
+ORD000178,5/26/2025,CUST1129,East,T-Shirt,Clothing,6,735,4410,Completed,Agent_12
+ORD000179,6/29/2025,CUST1158,West,Cricket Bat,Sports,6,2290,13740,Completed,Agent_11
+ORD000180,10/14/2025,CUST1192,East,Rice Bag,Grocery,10,1250,12500,Completed,Agent_11
+ORD000181,9/18/2025,CUST1185,West,Bookshelf,Furniture,9,8268,74412,Completed,Agent_1
+ORD000182,4/26/2025,CUST1070,South,Office Chair,Furniture,6,7626,45756,Completed,Agent_3
+ORD000183,11/2/2025,CUST1192,North,Laptop,Electronics,6,59140,354840,Completed,Agent_3
+ORD000184,5/2/2025,CUST1227,North,Cricket Bat,Sports,8,2271,18168,Completed,Agent_10
+ORD000185,8/29/2025,CUST1099,North,Rice Bag,Grocery,9,1137,10233,Returned,Agent_6
+ORD000186,9/15/2025,CUST1270,East,Football,Sports,8,1264,10112,Completed,Agent_7
+ORD000187,9/4/2025,CUST1190,West,Bookshelf,Furniture,3,9671,29013,Completed,Agent_9
+ORD000188,8/19/2025,CUST1262,West,Cricket Bat,Sports,5,2291,11455,Completed,Agent_3
+ORD000189,8/1/2025,CUST1027,West,Smartphone,Electronics,8,26923,215384,Cancelled,Agent_7
+ORD000190,2/20/2025,CUST1332,South,Desk,Furniture,2,11699,23398,Completed,Agent_6
+ORD000191,3/13/2025,CUST1240,West,Office Chair,Furniture,5,7584,37920,Completed,Agent_8
+ORD000192,11/8/2025,CUST1270,East,Laptop,Electronics,5,51872,259360,Completed,Agent_7
+ORD000193,11/24/2025,CUST1318,North,T-Shirt,Clothing,5,739,3695,Completed,Agent_8
+ORD000194,5/4/2025,CUST1073,North,Tea Pack,Grocery,9,451,4059,Completed,Agent_5
+ORD000195,12/9/2025,CUST1043,South,Football,Sports,4,1216,4864,Completed,Agent_9
+ORD000196,7/18/2025,CUST1191,West,Laptop,Electronics,7,59106,413742,Completed,Agent_5
+ORD000197,2/23/2025,CUST1297,East,T-Shirt,Clothing,6,758,4548,Completed,Agent_12
+ORD000198,3/31/2025,CUST1237,West,Office Chair,Furniture,6,7064,42384,Completed,Agent_12
+ORD000199,1/19/2025,CUST1150,South,Office Chair,Furniture,2,7302,14604,Returned,Agent_4
+ORD000200,10/6/2025,CUST1242,North,Office Chair,Furniture,6,7606,45636,Completed,Agent_5
+ORD000201,12/2/2025,CUST1169,North,Desk,Furniture,6,12869,77214,Completed,Agent_5
+ORD000202,7/17/2025,CUST1173,North,Jeans,Clothing,7,1887,13209,Completed,Agent_3
+ORD000203,8/6/2025,CUST1040,South,Cooking Oil,Grocery,9,1716,15444,Completed,Agent_7
+ORD000204,12/5/2025,CUST1151,East,Bookshelf,Furniture,5,8678,43390,Completed,Agent_5
+ORD000205,6/30/2025,CUST1314,South,Rice Bag,Grocery,8,1164,9312,Completed,Agent_7
+ORD000206,12/14/2025,CUST1081,North,Laptop,Electronics,7,53496,374472,Completed,Agent_1
+ORD000207,11/27/2025,CUST1187,North,Yoga Mat,Sports,8,1360,10880,Completed,Agent_6
+ORD000208,7/9/2025,CUST1190,South,Cricket Bat,Sports,10,2326,23260,Completed,Agent_8
+ORD000209,5/23/2025,CUST1127,West,Cricket Bat,Sports,9,2433,21897,Completed,Agent_2
+ORD000210,5/15/2025,CUST1133,North,Desk,Furniture,9,11728,105552,Completed,Agent_12
+ORD000211,2/7/2025,CUST1231,South,Football,Sports,8,1128,9024,Completed,Agent_3
+ORD000212,10/9/2025,CUST1277,West,Rice Bag,Grocery,6,1240,7440,Completed,Agent_5
+ORD000213,3/4/2025,CUST1102,West,Bookshelf,Furniture,3,9528,28584,Completed,Agent_13
+ORD000214,10/10/2025,CUST1066,North,Rice Bag,Grocery,6,1212,7272,Completed,Agent_10
+ORD000215,9/27/2025,CUST1210,West,Headphones,Electronics,7,3299,23093,Completed,Agent_13
+ORD000216,8/19/2025,CUST1238,South,Cricket Bat,Sports,3,2736,8208,Completed,Agent_11
+ORD000217,8/10/2025,CUST1257,South,Bookshelf,Furniture,10,8427,84270,Returned,Agent_15
+ORD000218,12/30/2025,CUST1115,West,Smartphone,Electronics,5,23323,116615,Completed,Agent_6
+ORD000219,10/10/2025,CUST1140,West,Football,Sports,2,1140,2280,Completed,Agent_3
+ORD000220,10/25/2025,CUST1078,East,Yoga Mat,Sports,2,1500,3000,Completed,Agent_3
+ORD000221,2/11/2025,CUST1023,East,Football,Sports,10,1089,10890,Returned,Agent_11
+ORD000222,11/24/2025,CUST1015,West,Jacket,Clothing,4,3686,14744,Completed,Agent_8
+ORD000223,12/17/2025,CUST1207,West,Football,Sports,5,1195,5975,Completed,Agent_5
+ORD000224,6/24/2025,CUST1310,South,Smartphone,Electronics,8,24578,196624,Completed,Agent_3
+ORD000225,7/9/2025,CUST1263,North,Jacket,Clothing,6,3832,22992,Completed,Agent_9
+ORD000226,2/19/2025,CUST1025,North,Desk,Furniture,2,11441,22882,Completed,Agent_5
+ORD000227,6/17/2025,CUST1295,West,Football,Sports,4,1311,5244,Cancelled,Agent_12
+ORD000228,9/12/2025,CUST1011,North,Desk,Furniture,9,11920,107280,Completed,Agent_2
+ORD000229,1/26/2025,CUST1144,West,Football,Sports,4,1131,4524,Completed,Agent_8
+ORD000230,3/10/2025,CUST1135,East,Cooking Oil,Grocery,9,1622,14598,Completed,Agent_12
+ORD000231,4/10/2025,CUST1185,South,Cooking Oil,Grocery,1,1764,1764,Completed,Agent_9
+ORD000232,11/16/2025,CUST1348,North,Tea Pack,Grocery,8,526,4208,Completed,Agent_10
+ORD000233,7/7/2025,CUST1073,North,Smartwatch,Electronics,6,8471,50826,Completed,Agent_4
+ORD000234,6/20/2025,CUST1242,East,Tea Pack,Grocery,1,454,454,Completed,Agent_9
+ORD000235,3/25/2025,CUST1201,South,Yoga Mat,Sports,3,1448,4344,Completed,Agent_10
+ORD000236,9/8/2025,CUST1288,East,Jacket,Clothing,6,3505,21030,Completed,Agent_5
+ORD000237,10/26/2025,CUST1157,South,Headphones,Electronics,6,3104,18624,Returned,Agent_13
+ORD000238,10/24/2025,CUST1295,West,Smartwatch,Electronics,5,8747,43735,Completed,Agent_4
+ORD000239,7/14/2025,CUST1075,East,Football,Sports,3,1205,3615,Completed,Agent_14
+ORD000240,3/19/2025,CUST1211,East,Laptop,Electronics,4,49708,198832,Completed,Agent_12
+ORD000241,2/1/2025,CUST1070,North,Yoga Mat,Sports,8,1611,12888,Completed,Agent_9
+ORD000242,3/30/2025,CUST1235,North,Jacket,Clothing,8,3517,28136,Completed,Agent_15
+ORD000243,5/7/2025,CUST1142,South,Football,Sports,5,1226,6130,Completed,Agent_9
+ORD000244,9/3/2025,CUST1178,North,Jeans,Clothing,4,1868,7472,Completed,Agent_9
+ORD000245,7/22/2025,CUST1176,West,Jeans,Clothing,2,1826,3652,Completed,Agent_13
+ORD000246,8/15/2025,CUST1335,West,T-Shirt,Clothing,5,872,4360,Completed,Agent_5
+ORD000247,5/20/2025,CUST1070,East,Office Chair,Furniture,9,6679,60111,Completed,Agent_2
+ORD000248,4/26/2025,CUST1326,East,Cricket Bat,Sports,4,2275,9100,Returned,Agent_4
+ORD000249,1/3/2025,CUST1281,North,Cooking Oil,Grocery,8,1656,13248,Completed,Agent_15
+ORD000250,5/27/2025,CUST1330,North,Cooking Oil,Grocery,4,1892,7568,Completed,Agent_1
+ORD000251,1/20/2025,CUST1089,West,Smartphone,Electronics,9,26193,235737,Completed,Agent_7
+ORD000252,5/29/2025,CUST1019,West,Office Chair,Furniture,7,7403,51821,Completed,Agent_1
+ORD000253,10/6/2025,CUST1268,North,Cricket Bat,Sports,6,2392,14352,Returned,Agent_8
+ORD000254,6/19/2025,CUST1083,West,Bookshelf,Furniture,8,8591,68728,Completed,Agent_12
+ORD000255,6/1/2025,CUST1290,South,Jacket,Clothing,3,3159,9477,Completed,Agent_11
+ORD000256,2/14/2025,CUST1205,West,Bookshelf,Furniture,7,9588,67116,Completed,Agent_11
+ORD000257,7/16/2025,CUST1120,North,Desk,Furniture,6,13045,78270,Completed,Agent_8
+ORD000258,12/1/2025,CUST1184,West,Jeans,Clothing,10,1880,18800,Completed,Agent_12
+ORD000259,12/27/2025,CUST1159,North,Smartwatch,Electronics,5,7455,37275,Completed,Agent_12
+ORD000260,9/2/2025,CUST1078,North,Jeans,Clothing,10,1699,16990,Returned,Agent_8
+ORD000261,10/3/2025,CUST1340,East,Football,Sports,7,1248,8736,Returned,Agent_14
+ORD000262,8/17/2025,CUST1270,North,Bookshelf,Furniture,10,9671,96710,Completed,Agent_12
+ORD000263,4/14/2025,CUST1293,South,Cricket Bat,Sports,1,2664,2664,Cancelled,Agent_9
+ORD000264,10/26/2025,CUST1250,North,Jacket,Clothing,8,3231,25848,Completed,Agent_2
+ORD000265,10/16/2025,CUST1029,West,Rice Bag,Grocery,8,1111,8888,Completed,Agent_9
+ORD000266,4/22/2025,CUST1296,South,Jacket,Clothing,1,3427,3427,Cancelled,Agent_2
+ORD000267,2/5/2025,CUST1241,North,Jacket,Clothing,2,3528,7056,Completed,Agent_1
+ORD000268,8/18/2025,CUST1193,North,Office Chair,Furniture,7,6824,47768,Completed,Agent_7
+ORD000269,7/21/2025,CUST1270,North,Cricket Bat,Sports,6,2309,13854,Returned,Agent_3
+ORD000270,10/6/2025,CUST1217,East,Office Chair,Furniture,1,7669,7669,Completed,Agent_9
+ORD000271,2/27/2025,CUST1016,South,Office Chair,Furniture,8,6784,54272,Completed,Agent_13
+ORD000272,1/18/2025,CUST1228,East,Cricket Bat,Sports,4,2353,9412,Completed,Agent_10
+ORD000273,4/22/2025,CUST1028,East,Smartphone,Electronics,1,24511,24511,Completed,Agent_3
+ORD000274,12/11/2025,CUST1164,South,T-Shirt,Clothing,10,771,7710,Completed,Agent_4
+ORD000275,2/1/2025,CUST1285,North,Bookshelf,Furniture,9,8497,76473,Completed,Agent_10
+ORD000276,6/26/2025,CUST1329,West,Bookshelf,Furniture,7,9100,63700,Completed,Agent_11
+ORD000277,4/5/2025,CUST1275,South,Football,Sports,7,1177,8239,Completed,Agent_8
+ORD000278,10/15/2025,CUST1211,North,Desk,Furniture,3,12733,38199,Cancelled,Agent_7
+ORD000279,2/10/2025,CUST1230,East,Desk,Furniture,4,11411,45644,Completed,Agent_14
+ORD000280,11/6/2025,CUST1308,South,Yoga Mat,Sports,4,1365,5460,Completed,Agent_1
+ORD000281,6/20/2025,CUST1155,West,Bookshelf,Furniture,9,8490,76410,Completed,Agent_15
+ORD000282,5/5/2025,CUST1309,North,Bookshelf,Furniture,2,9444,18888,Completed,Agent_12
+ORD000283,10/1/2025,CUST1332,North,Bookshelf,Furniture,6,9495,56970,Completed,Agent_6
+ORD000284,8/29/2025,CUST1163,North,Jacket,Clothing,8,3476,27808,Completed,Agent_15
+ORD000285,3/16/2025,CUST1008,North,Jeans,Clothing,1,1822,1822,Completed,Agent_5
+ORD000286,4/28/2025,CUST1194,East,Yoga Mat,Sports,7,1438,10066,Completed,Agent_10
+ORD000287,11/25/2025,CUST1251,West,Tea Pack,Grocery,6,475,2850,Completed,Agent_8
+ORD000288,10/5/2025,CUST1328,North,T-Shirt,Clothing,3,835,2505,Completed,Agent_1
+ORD000289,4/29/2025,CUST1034,South,Laptop,Electronics,1,54036,54036,Cancelled,Agent_12
+ORD000290,12/8/2025,CUST1315,North,Bookshelf,Furniture,8,8771,70168,Completed,Agent_15
+ORD000291,1/9/2025,CUST1271,South,Rice Bag,Grocery,1,1207,1207,Completed,Agent_12
+ORD000292,4/2/2025,CUST1054,North,T-Shirt,Clothing,9,850,7650,Completed,Agent_15
+ORD000293,7/1/2025,CUST1136,North,Office Chair,Furniture,4,7167,28668,Completed,Agent_13
+ORD000294,4/26/2025,CUST1153,South,Jeans,Clothing,8,1823,14584,Returned,Agent_11
+ORD000295,9/1/2025,CUST1028,West,Laptop,Electronics,2,53958,107916,Completed,Agent_11
+ORD000296,6/19/2025,CUST1289,North,Office Chair,Furniture,8,7483,59864,Completed,Agent_14
+ORD000297,10/18/2025,CUST1243,West,Cricket Bat,Sports,4,2355,9420,Completed,Agent_5
+ORD000298,6/11/2025,CUST1008,North,Headphones,Electronics,9,3038,27342,Completed,Agent_4
+ORD000299,7/19/2025,CUST1346,East,Rice Bag,Grocery,5,1118,5590,Completed,Agent_15
+ORD000300,2/10/2025,CUST1256,South,Tea Pack,Grocery,3,529,1587,Completed,Agent_12
+ORD000301,11/6/2025,CUST1314,West,Laptop,Electronics,7,52053,364371,Completed,Agent_10
+ORD000302,4/27/2025,CUST1182,South,T-Shirt,Clothing,5,845,4225,Completed,Agent_9
+ORD000303,11/13/2025,CUST1151,West,Rice Bag,Grocery,10,1238,12380,Completed,Agent_13
+ORD000304,11/21/2025,CUST1078,North,Laptop,Electronics,5,51196,255980,Completed,Agent_12
+ORD000305,7/4/2025,CUST1138,South,T-Shirt,Clothing,2,720,1440,Completed,Agent_2
+ORD000306,2/22/2025,CUST1013,North,Desk,Furniture,8,12136,97088,Completed,Agent_2
+ORD000307,2/13/2025,CUST1286,South,Headphones,Electronics,7,2707,18949,Completed,Agent_15
+ORD000308,3/13/2025,CUST1137,West,Bookshelf,Furniture,9,8405,75645,Completed,Agent_5
+ORD000309,9/5/2025,CUST1039,North,Office Chair,Furniture,3,6908,20724,Completed,Agent_6
+ORD000310,2/24/2025,CUST1069,North,Bookshelf,Furniture,8,9168,73344,Completed,Agent_5
+ORD000311,8/14/2025,CUST1171,North,Cooking Oil,Grocery,10,1756,17560,Completed,Agent_7
+ORD000312,4/13/2025,CUST1245,West,Cricket Bat,Sports,5,2410,12050,Cancelled,Agent_6
+ORD000313,10/22/2025,CUST1124,North,Cooking Oil,Grocery,5,1884,9420,Completed,Agent_6
+ORD000314,10/7/2025,CUST1092,South,Cooking Oil,Grocery,2,1955,3910,Completed,Agent_11
+ORD000315,12/21/2025,CUST1035,West,Smartwatch,Electronics,4,7901,31604,Completed,Agent_14
+ORD000316,5/10/2025,CUST1337,West,Tea Pack,Grocery,8,463,3704,Completed,Agent_3
+ORD000317,7/25/2025,CUST1273,East,Rice Bag,Grocery,8,1317,10536,Completed,Agent_9
+ORD000318,10/2/2025,CUST1304,West,Tea Pack,Grocery,1,529,529,Completed,Agent_11
+ORD000319,10/16/2025,CUST1330,West,Smartphone,Electronics,6,23331,139986,Completed,Agent_11
+ORD000320,9/19/2025,CUST1265,East,Jeans,Clothing,2,1623,3246,Completed,Agent_9
+ORD000321,12/14/2025,CUST1301,East,Cricket Bat,Sports,8,2437,19496,Completed,Agent_12
+ORD000322,2/13/2025,CUST1059,South,T-Shirt,Clothing,8,736,5888,Completed,Agent_14
+ORD000323,9/24/2025,CUST1247,West,Desk,Furniture,5,11623,58115,Completed,Agent_6
+ORD000324,12/30/2025,CUST1058,South,Tea Pack,Grocery,8,481,3848,Completed,Agent_1
+ORD000325,6/19/2025,CUST1286,West,Smartphone,Electronics,4,25079,100316,Completed,Agent_7
+ORD000326,7/22/2025,CUST1014,West,Desk,Furniture,3,11247,33741,Completed,Agent_12
+ORD000327,4/20/2025,CUST1105,East,Desk,Furniture,10,11830,118300,Completed,Agent_5
+ORD000328,8/23/2025,CUST1058,West,Laptop,Electronics,9,51556,464004,Completed,Agent_5
+ORD000329,10/28/2025,CUST1058,East,Tea Pack,Grocery,6,509,3054,Completed,Agent_6
+ORD000330,6/2/2025,CUST1314,South,Tea Pack,Grocery,3,531,1593,Completed,Agent_10
+ORD000331,7/11/2025,CUST1072,North,Desk,Furniture,2,11372,22744,Completed,Agent_9
+ORD000332,11/22/2025,CUST1275,South,Cricket Bat,Sports,10,2441,24410,Completed,Agent_12
+ORD000333,6/11/2025,CUST1230,West,Bookshelf,Furniture,3,8981,26943,Completed,Agent_10
+ORD000334,10/15/2025,CUST1258,North,T-Shirt,Clothing,8,741,5928,Completed,Agent_11
+ORD000335,1/16/2025,CUST1112,South,Cooking Oil,Grocery,8,1795,14360,Completed,Agent_5
+ORD000336,9/11/2025,CUST1281,North,Bookshelf,Furniture,5,8402,42010,Completed,Agent_9
+ORD000337,1/22/2025,CUST1225,North,Headphones,Electronics,9,3193,28737,Completed,Agent_9
+ORD000338,8/19/2025,CUST1134,North,Rice Bag,Grocery,4,1151,4604,Returned,Agent_6
+ORD000339,10/29/2025,CUST1179,West,Smartwatch,Electronics,2,8441,16882,Completed,Agent_14
+ORD000340,4/16/2025,CUST1030,East,Rice Bag,Grocery,10,1113,11130,Completed,Agent_10
+ORD000341,5/30/2025,CUST1148,South,Jacket,Clothing,9,3267,29403,Returned,Agent_10
+ORD000342,7/30/2025,CUST1030,North,Yoga Mat,Sports,2,1390,2780,Completed,Agent_5
+ORD000343,5/7/2025,CUST1346,West,Bookshelf,Furniture,3,8549,25647,Completed,Agent_7
+ORD000344,2/8/2025,CUST1324,South,Yoga Mat,Sports,5,1538,7690,Completed,Agent_13
+ORD000345,7/8/2025,CUST1232,West,Smartwatch,Electronics,9,8399,75591,Completed,Agent_8
+ORD000346,2/2/2025,CUST1273,North,Laptop,Electronics,8,56483,451864,Completed,Agent_7
+ORD000347,6/22/2025,CUST1280,North,Rice Bag,Grocery,8,1144,9152,Completed,Agent_10
+ORD000348,8/24/2025,CUST1008,North,Cooking Oil,Grocery,1,1636,1636,Completed,Agent_2
+ORD000349,4/14/2025,CUST1067,West,Desk,Furniture,8,10801,86408,Returned,Agent_15
+ORD000350,7/10/2025,CUST1340,East,Desk,Furniture,2,12371,24742,Completed,Agent_15
+ORD000351,8/8/2025,CUST1335,East,Smartwatch,Electronics,5,8361,41805,Completed,Agent_2
+ORD000352,9/23/2025,CUST1348,East,Smartphone,Electronics,8,22889,183112,Completed,Agent_8
+ORD000353,4/28/2025,CUST1196,North,T-Shirt,Clothing,7,831,5817,Completed,Agent_2
+ORD000354,7/15/2025,CUST1068,East,Laptop,Electronics,6,53543,321258,Completed,Agent_11
+ORD000355,3/26/2025,CUST1225,West,Office Chair,Furniture,9,7088,63792,Completed,Agent_6
+ORD000356,2/14/2025,CUST1051,East,Desk,Furniture,10,12447,124470,Cancelled,Agent_3
+ORD000357,3/13/2025,CUST1126,West,Yoga Mat,Sports,7,1455,10185,Completed,Agent_5
+ORD000358,12/20/2025,CUST1013,East,Bookshelf,Furniture,10,9180,91800,Completed,Agent_14
+ORD000359,7/20/2025,CUST1151,West,T-Shirt,Clothing,9,817,7353,Completed,Agent_11
+ORD000360,11/1/2025,CUST1036,North,Desk,Furniture,7,11070,77490,Completed,Agent_9
+ORD000361,10/19/2025,CUST1215,West,Headphones,Electronics,6,2779,16674,Completed,Agent_6
+ORD000362,5/15/2025,CUST1110,South,Desk,Furniture,2,10840,21680,Completed,Agent_1
+ORD000363,8/1/2025,CUST1216,West,Tea Pack,Grocery,5,512,2560,Completed,Agent_12
+ORD000364,2/10/2025,CUST1261,South,Yoga Mat,Sports,10,1395,13950,Completed,Agent_15
+ORD000365,11/29/2025,CUST1348,North,Bookshelf,Furniture,6,8803,52818,Completed,Agent_11
+ORD000366,8/11/2025,CUST1059,North,Tea Pack,Grocery,4,455,1820,Completed,Agent_8
+ORD000367,12/26/2025,CUST1005,East,Headphones,Electronics,3,2771,8313,Completed,Agent_3
+ORD000368,3/27/2025,CUST1190,South,Jacket,Clothing,9,3698,33282,Cancelled,Agent_3
+ORD000369,8/8/2025,CUST1139,East,Jacket,Clothing,2,3690,7380,Completed,Agent_9
+ORD000370,1/29/2025,CUST1255,North,Yoga Mat,Sports,2,1498,2996,Completed,Agent_14
+ORD000371,12/12/2025,CUST1059,East,T-Shirt,Clothing,5,843,4215,Returned,Agent_4
+ORD000372,7/16/2025,CUST1076,East,Laptop,Electronics,1,52190,52190,Completed,Agent_3
+ORD000373,6/13/2025,CUST1138,West,Smartwatch,Electronics,4,7714,30856,Completed,Agent_14
+ORD000374,4/25/2025,CUST1264,North,T-Shirt,Clothing,9,827,7443,Completed,Agent_1
+ORD000375,2/14/2025,CUST1283,West,Smartwatch,Electronics,5,8437,42185,Completed,Agent_8
+ORD000376,5/5/2025,CUST1237,North,Desk,Furniture,10,12682,126820,Completed,Agent_6
+ORD000377,1/4/2025,CUST1209,East,Rice Bag,Grocery,9,1262,11358,Completed,Agent_1
+ORD000378,12/3/2025,CUST1192,North,Jacket,Clothing,1,3815,3815,Completed,Agent_14
+ORD000379,9/9/2025,CUST1030,East,T-Shirt,Clothing,4,804,3216,Completed,Agent_3
+ORD000380,12/25/2025,CUST1190,East,Laptop,Electronics,4,59370,237480,Completed,Agent_8
+ORD000381,2/8/2025,CUST1303,West,Laptop,Electronics,9,50968,458712,Completed,Agent_10
+ORD000382,7/21/2025,CUST1167,North,Office Chair,Furniture,5,6665,33325,Completed,Agent_6
+ORD000383,2/25/2025,CUST1079,South,Office Chair,Furniture,4,6490,25960,Cancelled,Agent_2
+ORD000384,4/17/2025,CUST1231,North,Cooking Oil,Grocery,7,1663,11641,Completed,Agent_5
+ORD000385,12/27/2025,CUST1308,South,Laptop,Electronics,3,58383,175149,Completed,Agent_1
+ORD000386,7/22/2025,CUST1262,North,T-Shirt,Clothing,2,833,1666,Returned,Agent_1
+ORD000387,10/12/2025,CUST1281,East,T-Shirt,Clothing,1,872,872,Cancelled,Agent_4
+ORD000388,4/24/2025,CUST1066,North,Smartphone,Electronics,2,22559,45118,Completed,Agent_4
+ORD000389,2/8/2025,CUST1011,West,Jacket,Clothing,2,3557,7114,Completed,Agent_2
+ORD000390,6/19/2025,CUST1062,North,Rice Bag,Grocery,2,1297,2594,Completed,Agent_1
+ORD000391,9/12/2025,CUST1015,West,Smartphone,Electronics,10,24665,246650,Completed,Agent_7
+ORD000392,8/17/2025,CUST1076,East,Desk,Furniture,4,12979,51916,Completed,Agent_1
+ORD000393,9/3/2025,CUST1031,East,Cricket Bat,Sports,5,2499,12495,Returned,Agent_2
+ORD000394,5/8/2025,CUST1322,North,Desk,Furniture,4,12342,49368,Completed,Agent_13
+ORD000395,6/26/2025,CUST1289,South,Smartwatch,Electronics,6,7967,47802,Cancelled,Agent_9
+ORD000396,5/24/2025,CUST1029,North,T-Shirt,Clothing,1,771,771,Completed,Agent_13
+ORD000397,2/21/2025,CUST1126,West,Football,Sports,10,1319,13190,Returned,Agent_11
+ORD000398,10/22/2025,CUST1198,North,Yoga Mat,Sports,1,1579,1579,Cancelled,Agent_6
+ORD000399,12/24/2025,CUST1183,West,Office Chair,Furniture,4,7129,28516,Completed,Agent_15
+ORD000400,9/10/2025,CUST1277,East,Jacket,Clothing,10,3249,32490,Returned,Agent_5
+ORD000401,9/27/2025,CUST1244,North,Laptop,Electronics,1,52058,52058,Completed,Agent_1
+ORD000402,6/15/2025,CUST1030,North,Cricket Bat,Sports,3,2420,7260,Completed,Agent_1
+ORD000403,7/11/2025,CUST1339,North,Office Chair,Furniture,9,7504,67536,Returned,Agent_7
+ORD000404,8/12/2025,CUST1327,East,Jeans,Clothing,6,1669,10014,Completed,Agent_8
+ORD000405,7/2/2025,CUST1114,East,Bookshelf,Furniture,9,9348,84132,Returned,Agent_11
+ORD000406,4/1/2025,CUST1000,East,Desk,Furniture,5,12561,62805,Completed,Agent_12
+ORD000407,11/10/2025,CUST1113,West,Tea Pack,Grocery,1,468,468,Completed,Agent_11
+ORD000408,6/13/2025,CUST1085,East,Rice Bag,Grocery,6,1258,7548,Completed,Agent_11
+ORD000409,12/21/2025,CUST1034,West,Headphones,Electronics,8,2706,21648,Completed,Agent_6
+ORD000410,3/27/2025,CUST1211,North,Laptop,Electronics,1,53745,53745,Completed,Agent_8
+ORD000411,10/23/2025,CUST1333,West,Jacket,Clothing,7,3220,22540,Completed,Agent_13
+ORD000412,1/11/2025,CUST1163,East,Desk,Furniture,2,12718,25436,Completed,Agent_5
+ORD000413,2/8/2025,CUST1280,West,Headphones,Electronics,3,3232,9696,Completed,Agent_15
+ORD000414,8/9/2025,CUST1334,West,Jacket,Clothing,10,3775,37750,Completed,Agent_3
+ORD000415,4/8/2025,CUST1209,East,Rice Bag,Grocery,1,1104,1104,Completed,Agent_12
+ORD000416,7/21/2025,CUST1292,East,Football,Sports,5,1151,5755,Completed,Agent_9
+ORD000417,12/5/2025,CUST1320,West,Office Chair,Furniture,6,6305,37830,Completed,Agent_10
+ORD000418,2/11/2025,CUST1242,South,Laptop,Electronics,4,51379,205516,Completed,Agent_14
+ORD000419,11/25/2025,CUST1278,North,Cooking Oil,Grocery,8,1942,15536,Completed,Agent_7
+ORD000420,8/27/2025,CUST1134,North,Cooking Oil,Grocery,3,1780,5340,Completed,Agent_4
+ORD000421,2/13/2025,CUST1342,West,Cricket Bat,Sports,3,2626,7878,Completed,Agent_6
+ORD000422,9/25/2025,CUST1214,West,Tea Pack,Grocery,4,505,2020,Completed,Agent_9
+ORD000423,1/18/2025,CUST1257,East,Tea Pack,Grocery,4,497,1988,Completed,Agent_10
+ORD000424,8/18/2025,CUST1088,West,Yoga Mat,Sports,10,1394,13940,Cancelled,Agent_3
+ORD000425,8/11/2025,CUST1103,West,Office Chair,Furniture,1,6892,6892,Returned,Agent_14
+ORD000426,2/4/2025,CUST1044,East,Football,Sports,6,1298,7788,Returned,Agent_7
+ORD000427,1/7/2025,CUST1319,East,Football,Sports,5,1204,6020,Returned,Agent_10
+ORD000428,10/26/2025,CUST1051,South,Rice Bag,Grocery,7,1115,7805,Completed,Agent_15
+ORD000429,5/16/2025,CUST1196,North,Headphones,Electronics,9,3228,29052,Completed,Agent_11
+ORD000430,11/13/2025,CUST1311,South,Football,Sports,1,1121,1121,Completed,Agent_11
+ORD000431,9/1/2025,CUST1137,East,Smartwatch,Electronics,6,8304,49824,Completed,Agent_15
+ORD000432,12/23/2025,CUST1050,South,Jeans,Clothing,5,1720,8600,Completed,Agent_14
+ORD000433,8/2/2025,CUST1309,North,Jacket,Clothing,8,3691,29528,Completed,Agent_11
+ORD000434,7/11/2025,CUST1028,North,Rice Bag,Grocery,7,1257,8799,Completed,Agent_9
+ORD000435,9/26/2025,CUST1291,West,Headphones,Electronics,9,2942,26478,Completed,Agent_1
+ORD000436,7/4/2025,CUST1101,North,Office Chair,Furniture,4,6346,25384,Completed,Agent_5
+ORD000437,1/16/2025,CUST1123,South,Tea Pack,Grocery,7,513,3591,Completed,Agent_6
+ORD000438,3/25/2025,CUST1132,South,Rice Bag,Grocery,8,1220,9760,Completed,Agent_12
+ORD000439,10/20/2025,CUST1109,West,Headphones,Electronics,1,2931,2931,Completed,Agent_14
+ORD000440,1/11/2025,CUST1349,North,Bookshelf,Furniture,4,8584,34336,Completed,Agent_1
+ORD000441,5/10/2025,CUST1311,South,Bookshelf,Furniture,3,9182,27546,Completed,Agent_13
+ORD000442,4/22/2025,CUST1238,West,Jeans,Clothing,7,1926,13482,Completed,Agent_5
+ORD000443,12/6/2025,CUST1191,East,Football,Sports,10,1104,11040,Completed,Agent_9
+ORD000444,6/22/2025,CUST1141,East,Football,Sports,5,1244,6220,Completed,Agent_11
+ORD000445,5/4/2025,CUST1029,North,Jeans,Clothing,5,1687,8435,Completed,Agent_13
+ORD000446,12/2/2025,CUST1254,West,Football,Sports,6,1243,7458,Completed,Agent_5
+ORD000447,10/20/2025,CUST1097,North,Cooking Oil,Grocery,7,1885,13195,Completed,Agent_6
+ORD000448,12/10/2025,CUST1183,East,Bookshelf,Furniture,9,9248,83232,Completed,Agent_9
+ORD000449,3/7/2025,CUST1132,North,Bookshelf,Furniture,9,8426,75834,Completed,Agent_12
+ORD000450,4/25/2025,CUST1157,West,Bookshelf,Furniture,6,9277,55662,Completed,Agent_7
+ORD000451,3/2/2025,CUST1240,West,Jeans,Clothing,5,1830,9150,Completed,Agent_1
+ORD000452,9/14/2025,CUST1061,West,Yoga Mat,Sports,10,1371,13710,Completed,Agent_14
+ORD000453,3/12/2025,CUST1102,East,Football,Sports,7,1092,7644,Cancelled,Agent_6
+ORD000454,2/11/2025,CUST1249,South,Football,Sports,3,1155,3465,Completed,Agent_6
+ORD000455,3/28/2025,CUST1295,East,Desk,Furniture,1,10811,10811,Completed,Agent_13
+ORD000456,8/8/2025,CUST1244,North,Smartphone,Electronics,10,24668,246680,Completed,Agent_7
+ORD000457,9/29/2025,CUST1097,North,Cricket Bat,Sports,6,2725,16350,Completed,Agent_1
+ORD000458,9/15/2025,CUST1301,East,Office Chair,Furniture,6,6736,40416,Completed,Agent_5
+ORD000459,9/26/2025,CUST1172,North,Headphones,Electronics,5,2973,14865,Completed,Agent_7
+ORD000460,7/26/2025,CUST1009,West,Desk,Furniture,8,11662,93296,Completed,Agent_4
+ORD000461,7/7/2025,CUST1333,North,Office Chair,Furniture,1,7125,7125,Completed,Agent_13
+ORD000462,12/5/2025,CUST1055,North,Jacket,Clothing,10,3184,31840,Returned,Agent_11
+ORD000463,5/10/2025,CUST1242,West,Laptop,Electronics,7,54387,380709,Completed,Agent_12
+ORD000464,5/19/2025,CUST1318,North,Headphones,Electronics,7,3096,21672,Completed,Agent_10
+ORD000465,2/28/2025,CUST1054,East,Rice Bag,Grocery,9,1252,11268,Completed,Agent_8
+ORD000466,7/29/2025,CUST1151,North,Desk,Furniture,9,13135,118215,Completed,Agent_3
+ORD000467,12/10/2025,CUST1045,North,Rice Bag,Grocery,8,1159,9272,Completed,Agent_15
+ORD000468,9/19/2025,CUST1038,North,Yoga Mat,Sports,8,1394,11152,Completed,Agent_12
+ORD000469,5/16/2025,CUST1237,East,Jacket,Clothing,4,3469,13876,Returned,Agent_1
+ORD000470,8/7/2025,CUST1059,North,Office Chair,Furniture,5,6804,34020,Completed,Agent_2
+ORD000471,7/3/2025,CUST1224,West,Laptop,Electronics,3,56796,170388,Completed,Agent_10
+ORD000472,8/22/2025,CUST1139,North,Headphones,Electronics,6,2809,16854,Completed,Agent_14
+ORD000473,1/31/2025,CUST1081,South,Cooking Oil,Grocery,3,1660,4980,Completed,Agent_2
+ORD000474,7/14/2025,CUST1183,South,Football,Sports,10,1242,12420,Completed,Agent_10
+ORD000475,1/24/2025,CUST1032,North,Desk,Furniture,8,11071,88568,Completed,Agent_5
+ORD000476,11/13/2025,CUST1048,East,Smartphone,Electronics,6,25095,150570,Completed,Agent_7
+ORD000477,3/18/2025,CUST1285,East,Desk,Furniture,6,12392,74352,Completed,Agent_15
+ORD000478,9/11/2025,CUST1084,West,Laptop,Electronics,3,55061,165183,Completed,Agent_2
+ORD000479,4/25/2025,CUST1281,West,T-Shirt,Clothing,6,875,5250,Completed,Agent_11
+ORD000480,2/15/2025,CUST1255,South,Office Chair,Furniture,8,6921,55368,Completed,Agent_8
+ORD000481,10/13/2025,CUST1281,North,Tea Pack,Grocery,1,460,460,Completed,Agent_1
+ORD000482,12/2/2025,CUST1343,West,Yoga Mat,Sports,5,1617,8085,Completed,Agent_8
+ORD000483,11/14/2025,CUST1307,West,T-Shirt,Clothing,4,855,3420,Completed,Agent_8
+ORD000484,4/24/2025,CUST1001,East,Jacket,Clothing,8,3229,25832,Completed,Agent_6
+ORD000485,3/26/2025,CUST1252,South,Jacket,Clothing,9,3411,30699,Completed,Agent_3
+ORD000486,7/21/2025,CUST1110,West,Rice Bag,Grocery,5,1226,6130,Completed,Agent_8
+ORD000487,11/21/2025,CUST1344,West,Bookshelf,Furniture,6,8293,49758,Completed,Agent_10
+ORD000488,9/13/2025,CUST1002,North,Cooking Oil,Grocery,10,1964,19640,Completed,Agent_9
+ORD000489,4/1/2025,CUST1296,East,Football,Sports,10,1195,11950,Completed,Agent_3
+ORD000490,6/14/2025,CUST1258,East,Office Chair,Furniture,7,7220,50540,Completed,Agent_15
+ORD000491,5/31/2025,CUST1231,South,Yoga Mat,Sports,4,1432,5728,Returned,Agent_13
+ORD000492,6/10/2025,CUST1283,North,Tea Pack,Grocery,9,479,4311,Completed,Agent_11
+ORD000493,3/9/2025,CUST1332,North,Bookshelf,Furniture,5,9335,46675,Cancelled,Agent_3
+ORD000494,10/26/2025,CUST1292,South,Jacket,Clothing,2,3682,7364,Completed,Agent_11
+ORD000495,1/13/2025,CUST1195,East,Football,Sports,7,1273,8911,Completed,Agent_3
+ORD000496,5/27/2025,CUST1349,North,Smartphone,Electronics,5,26250,131250,Completed,Agent_5
+ORD000497,8/20/2025,CUST1052,North,Headphones,Electronics,4,3152,12608,Completed,Agent_10
+ORD000498,12/23/2025,CUST1147,West,Cricket Bat,Sports,9,2444,21996,Completed,Agent_12
+ORD000499,6/10/2025,CUST1282,East,Cooking Oil,Grocery,7,1964,13748,Returned,Agent_1
+ORD000500,8/15/2025,CUST1115,North,T-Shirt,Clothing,10,859,8590,Completed,Agent_15
+ORD000501,4/10/2025,CUST1150,East,Jacket,Clothing,9,3666,32994,Completed,Agent_8
+ORD000502,1/21/2025,CUST1219,North,Smartphone,Electronics,3,26175,78525,Completed,Agent_5
+ORD000503,8/27/2025,CUST1079,East,Office Chair,Furniture,10,7484,74840,Completed,Agent_1
+ORD000504,12/5/2025,CUST1154,North,Jacket,Clothing,1,3691,3691,Completed,Agent_8
+ORD000505,4/23/2025,CUST1094,West,Football,Sports,2,1268,2536,Completed,Agent_9
+ORD000506,6/28/2025,CUST1113,North,Cricket Bat,Sports,7,2521,17647,Completed,Agent_15
+ORD000507,11/13/2025,CUST1271,North,Jeans,Clothing,6,1725,10350,Returned,Agent_8
+ORD000508,11/11/2025,CUST1318,West,Laptop,Electronics,6,54402,326412,Cancelled,Agent_4
+ORD000509,5/25/2025,CUST1012,West,Jeans,Clothing,2,1758,3516,Completed,Agent_15
+ORD000510,11/30/2025,CUST1098,South,Jacket,Clothing,9,3461,31149,Completed,Agent_6
+ORD000511,4/18/2025,CUST1343,South,Smartphone,Electronics,9,25166,226494,Completed,Agent_11
+ORD000512,8/11/2025,CUST1331,West,Rice Bag,Grocery,4,1209,4836,Completed,Agent_14
+ORD000513,2/7/2025,CUST1027,West,Office Chair,Furniture,8,7303,58424,Completed,Agent_3
+ORD000514,7/28/2025,CUST1198,West,Cricket Bat,Sports,10,2660,26600,Cancelled,Agent_8
+ORD000515,1/4/2025,CUST1328,East,Cooking Oil,Grocery,1,1760,1760,Completed,Agent_12
+ORD000516,5/29/2025,CUST1154,East,Cricket Bat,Sports,2,2428,4856,Completed,Agent_10
+ORD000517,3/22/2025,CUST1273,North,Cooking Oil,Grocery,7,1915,13405,Completed,Agent_4
+ORD000518,12/13/2025,CUST1331,North,Tea Pack,Grocery,5,546,2730,Completed,Agent_6
+ORD000519,7/21/2025,CUST1275,West,Smartphone,Electronics,2,22708,45416,Completed,Agent_9
+ORD000520,9/20/2025,CUST1072,West,T-Shirt,Clothing,6,753,4518,Cancelled,Agent_3
+ORD000521,10/18/2025,CUST1027,North,Football,Sports,4,1107,4428,Completed,Agent_14
+ORD000522,5/9/2025,CUST1050,West,Football,Sports,9,1097,9873,Completed,Agent_4
+ORD000523,2/21/2025,CUST1145,East,Cooking Oil,Grocery,6,1666,9996,Completed,Agent_10
+ORD000524,6/6/2025,CUST1299,North,Desk,Furniture,8,11881,95048,Completed,Agent_3
+ORD000525,4/24/2025,CUST1328,East,Jeans,Clothing,7,1680,11760,Completed,Agent_7
+ORD000526,7/3/2025,CUST1156,North,T-Shirt,Clothing,6,860,5160,Completed,Agent_8
+ORD000527,3/13/2025,CUST1275,East,Bookshelf,Furniture,10,8247,82470,Completed,Agent_4
+ORD000528,10/25/2025,CUST1296,North,Laptop,Electronics,1,58845,58845,Completed,Agent_7
+ORD000529,10/4/2025,CUST1241,West,Office Chair,Furniture,9,6664,59976,Completed,Agent_11
+ORD000530,5/29/2025,CUST1068,West,Jeans,Clothing,4,1940,7760,Completed,Agent_8
+ORD000531,11/11/2025,CUST1084,South,Smartwatch,Electronics,6,8003,48018,Completed,Agent_13
+ORD000532,3/16/2025,CUST1247,South,Rice Bag,Grocery,3,1215,3645,Completed,Agent_6
+ORD000533,12/9/2025,CUST1105,North,Rice Bag,Grocery,2,1143,2286,Completed,Agent_9
+ORD000534,1/21/2025,CUST1332,West,Jeans,Clothing,8,1950,15600,Completed,Agent_6
+ORD000535,10/6/2025,CUST1291,North,Yoga Mat,Sports,5,1600,8000,Completed,Agent_3
+ORD000536,9/22/2025,CUST1128,South,Cooking Oil,Grocery,10,1855,18550,Cancelled,Agent_7
+ORD000537,9/7/2025,CUST1246,West,Bookshelf,Furniture,7,8735,61145,Completed,Agent_15
+ORD000538,11/26/2025,CUST1143,East,Cricket Bat,Sports,8,2332,18656,Completed,Agent_4
+ORD000539,4/28/2025,CUST1212,North,Desk,Furniture,10,12521,125210,Completed,Agent_13
+ORD000540,11/28/2025,CUST1210,North,Smartwatch,Electronics,8,7966,63728,Completed,Agent_1
+ORD000541,1/21/2025,CUST1293,North,Bookshelf,Furniture,10,8390,83900,Completed,Agent_3
+ORD000542,10/16/2025,CUST1326,North,T-Shirt,Clothing,9,873,7857,Completed,Agent_1
+ORD000543,9/4/2025,CUST1087,West,T-Shirt,Clothing,4,791,3164,Returned,Agent_4
+ORD000544,12/4/2025,CUST1261,West,Cricket Bat,Sports,10,2660,26600,Completed,Agent_5
+ORD000545,7/17/2025,CUST1067,North,Jeans,Clothing,10,1832,18320,Completed,Agent_2
+ORD000546,4/1/2025,CUST1243,North,Yoga Mat,Sports,7,1597,11179,Completed,Agent_15
+ORD000547,11/5/2025,CUST1276,East,Laptop,Electronics,2,54804,109608,Completed,Agent_14
+ORD000548,9/29/2025,CUST1219,North,Tea Pack,Grocery,7,487,3409,Completed,Agent_4
+ORD000549,12/23/2025,CUST1294,West,Cooking Oil,Grocery,6,1832,10992,Completed,Agent_2
+ORD000550,11/3/2025,CUST1278,South,Jeans,Clothing,4,1947,7788,Completed,Agent_7
+ORD000551,7/12/2025,CUST1335,North,Laptop,Electronics,10,55247,552470,Completed,Agent_4
+ORD000552,10/27/2025,CUST1129,East,Jeans,Clothing,6,1658,9948,Completed,Agent_5
+ORD000553,7/23/2025,CUST1104,West,Tea Pack,Grocery,6,511,3066,Returned,Agent_7
+ORD000554,5/10/2025,CUST1157,East,Football,Sports,3,1168,3504,Completed,Agent_10
+ORD000555,4/28/2025,CUST1228,North,Tea Pack,Grocery,3,535,1605,Completed,Agent_13
+ORD000556,10/9/2025,CUST1314,East,Office Chair,Furniture,4,7011,28044,Cancelled,Agent_12
+ORD000557,2/16/2025,CUST1074,East,Smartphone,Electronics,7,27322,191254,Completed,Agent_8
+ORD000558,11/8/2025,CUST1019,West,Rice Bag,Grocery,2,1143,2286,Completed,Agent_12
+ORD000559,1/30/2025,CUST1089,South,Tea Pack,Grocery,9,478,4302,Returned,Agent_11
+ORD000560,11/3/2025,CUST1261,South,Smartphone,Electronics,9,23930,215370,Completed,Agent_9
+ORD000561,3/22/2025,CUST1044,East,Cricket Bat,Sports,1,2429,2429,Completed,Agent_5
+ORD000562,1/8/2025,CUST1035,West,Jacket,Clothing,7,3433,24031,Completed,Agent_15
+ORD000563,5/22/2025,CUST1115,North,Jacket,Clothing,9,3790,34110,Completed,Agent_10
+ORD000564,9/17/2025,CUST1054,West,Cooking Oil,Grocery,10,1621,16210,Completed,Agent_9
+ORD000565,10/3/2025,CUST1294,North,Jeans,Clothing,2,1909,3818,Returned,Agent_5
+ORD000566,8/23/2025,CUST1348,East,Tea Pack,Grocery,8,526,4208,Completed,Agent_8
+ORD000567,4/23/2025,CUST1346,West,Smartwatch,Electronics,2,7612,15224,Completed,Agent_12
+ORD000568,5/15/2025,CUST1127,North,Jeans,Clothing,6,1805,10830,Completed,Agent_5
+ORD000569,7/1/2025,CUST1111,North,T-Shirt,Clothing,9,869,7821,Completed,Agent_15
+ORD000570,5/4/2025,CUST1135,East,Bookshelf,Furniture,4,8998,35992,Completed,Agent_4
+ORD000571,2/10/2025,CUST1346,North,Bookshelf,Furniture,6,8380,50280,Completed,Agent_11
+ORD000572,10/22/2025,CUST1140,South,Laptop,Electronics,8,53583,428664,Completed,Agent_8
+ORD000573,1/28/2025,CUST1269,North,Football,Sports,7,1133,7931,Completed,Agent_13
+ORD000574,3/31/2025,CUST1234,South,Cricket Bat,Sports,9,2423,21807,Cancelled,Agent_2
+ORD000575,10/25/2025,CUST1051,East,Cooking Oil,Grocery,1,1624,1624,Completed,Agent_6
+ORD000576,11/10/2025,CUST1175,South,T-Shirt,Clothing,9,762,6858,Completed,Agent_6
+ORD000577,7/25/2025,CUST1143,North,Rice Bag,Grocery,7,1248,8736,Completed,Agent_8
+ORD000578,5/1/2025,CUST1284,North,Bookshelf,Furniture,4,9565,38260,Completed,Agent_7
+ORD000579,8/4/2025,CUST1255,West,Office Chair,Furniture,3,6962,20886,Completed,Agent_3
+ORD000580,10/15/2025,CUST1290,West,Yoga Mat,Sports,6,1585,9510,Completed,Agent_1
+ORD000581,11/19/2025,CUST1049,South,Office Chair,Furniture,4,7439,29756,Completed,Agent_8
+ORD000582,5/12/2025,CUST1176,East,Jeans,Clothing,6,1821,10926,Returned,Agent_1
+ORD000583,11/29/2025,CUST1275,South,Jacket,Clothing,10,3289,32890,Completed,Agent_3
+ORD000584,8/17/2025,CUST1040,West,Jeans,Clothing,6,1862,11172,Completed,Agent_7
+ORD000585,6/22/2025,CUST1215,East,Tea Pack,Grocery,3,536,1608,Completed,Agent_11
+ORD000586,6/12/2025,CUST1334,East,Rice Bag,Grocery,2,1118,2236,Completed,Agent_5
+ORD000587,7/5/2025,CUST1300,East,Yoga Mat,Sports,7,1431,10017,Completed,Agent_9
+ORD000588,5/1/2025,CUST1338,West,Rice Bag,Grocery,3,1285,3855,Completed,Agent_5
+ORD000589,8/31/2025,CUST1280,West,Smartphone,Electronics,3,24485,73455,Completed,Agent_1
+ORD000590,2/13/2025,CUST1335,North,Tea Pack,Grocery,2,460,920,Completed,Agent_15
+ORD000591,3/6/2025,CUST1067,West,T-Shirt,Clothing,4,838,3352,Completed,Agent_9
+ORD000592,9/1/2025,CUST1239,West,Laptop,Electronics,6,58964,353784,Completed,Agent_14
+ORD000593,10/4/2025,CUST1090,South,Jacket,Clothing,8,3244,25952,Returned,Agent_10
+ORD000594,6/27/2025,CUST1246,East,Football,Sports,9,1233,11097,Completed,Agent_9
+ORD000595,6/5/2025,CUST1005,North,Smartwatch,Electronics,5,7785,38925,Completed,Agent_1
+ORD000596,9/9/2025,CUST1244,South,Desk,Furniture,5,11926,59630,Completed,Agent_5
+ORD000597,7/11/2025,CUST1096,North,Cooking Oil,Grocery,10,1703,17030,Completed,Agent_7
+ORD000598,7/19/2025,CUST1193,West,Cooking Oil,Grocery,4,1678,6712,Completed,Agent_4
+ORD000599,11/10/2025,CUST1139,North,Tea Pack,Grocery,4,501,2004,Completed,Agent_5
+ORD000600,3/11/2025,CUST1148,East,Football,Sports,7,1125,7875,Completed,Agent_2
+ORD000601,6/14/2025,CUST1009,East,Football,Sports,5,1248,6240,Completed,Agent_3
+ORD000602,3/6/2025,CUST1224,North,Cricket Bat,Sports,3,2736,8208,Completed,Agent_12
+ORD000603,6/9/2025,CUST1255,North,Smartphone,Electronics,1,24967,24967,Completed,Agent_6
+ORD000604,1/29/2025,CUST1136,South,Headphones,Electronics,2,3206,6412,Returned,Agent_13
+ORD000605,7/15/2025,CUST1006,South,Football,Sports,3,1126,3378,Cancelled,Agent_2
+ORD000606,4/12/2025,CUST1235,West,Desk,Furniture,8,11393,91144,Returned,Agent_12
+ORD000607,6/9/2025,CUST1165,West,Yoga Mat,Sports,4,1491,5964,Completed,Agent_3
+ORD000608,7/4/2025,CUST1026,East,Laptop,Electronics,5,54793,273965,Completed,Agent_14
+ORD000609,5/22/2025,CUST1299,East,Smartphone,Electronics,7,24122,168854,Completed,Agent_2
+ORD000610,12/19/2025,CUST1305,South,Office Chair,Furniture,1,7113,7113,Completed,Agent_3
+ORD000611,6/23/2025,CUST1320,South,Smartphone,Electronics,3,24999,74997,Completed,Agent_1
+ORD000612,4/30/2025,CUST1162,North,Bookshelf,Furniture,9,9524,85716,Completed,Agent_9
+ORD000613,3/10/2025,CUST1128,West,Jeans,Clothing,4,1627,6508,Completed,Agent_15
+ORD000614,10/18/2025,CUST1095,North,Tea Pack,Grocery,5,504,2520,Completed,Agent_9
+ORD000615,2/5/2025,CUST1271,North,Cooking Oil,Grocery,10,1949,19490,Completed,Agent_3
+ORD000616,9/17/2025,CUST1194,South,Jacket,Clothing,6,3467,20802,Cancelled,Agent_12
+ORD000617,12/4/2025,CUST1275,North,Headphones,Electronics,10,2843,28430,Completed,Agent_14
+ORD000618,5/25/2025,CUST1165,South,Yoga Mat,Sports,8,1579,12632,Completed,Agent_7
+ORD000619,3/8/2025,CUST1091,East,Laptop,Electronics,9,56747,510723,Completed,Agent_14
+ORD000620,7/18/2025,CUST1336,North,Smartwatch,Electronics,4,7358,29432,Completed,Agent_8
+ORD000621,2/6/2025,CUST1006,South,Football,Sports,1,1167,1167,Completed,Agent_15
+ORD000622,10/13/2025,CUST1212,West,Rice Bag,Grocery,8,1272,10176,Completed,Agent_14
+ORD000623,6/5/2025,CUST1039,South,Headphones,Electronics,9,2724,24516,Completed,Agent_4
+ORD000624,9/27/2025,CUST1336,West,Laptop,Electronics,4,55348,221392,Completed,Agent_4
+ORD000625,11/23/2025,CUST1295,East,Bookshelf,Furniture,9,8847,79623,Completed,Agent_6
+ORD000626,9/16/2025,CUST1172,East,Rice Bag,Grocery,3,1270,3810,Completed,Agent_11
+ORD000627,6/16/2025,CUST1190,North,Football,Sports,6,1296,7776,Completed,Agent_7
+ORD000628,4/20/2025,CUST1192,West,Tea Pack,Grocery,6,510,3060,Completed,Agent_13
+ORD000629,1/18/2025,CUST1145,East,Jeans,Clothing,8,1781,14248,Completed,Agent_10
+ORD000630,6/11/2025,CUST1011,North,Desk,Furniture,1,11520,11520,Completed,Agent_13
+ORD000631,3/21/2025,CUST1048,West,Jacket,Clothing,9,3539,31851,Cancelled,Agent_1
+ORD000632,4/30/2025,CUST1131,South,Office Chair,Furniture,5,6813,34065,Completed,Agent_13
+ORD000633,6/16/2025,CUST1247,North,Football,Sports,10,1300,13000,Completed,Agent_3
+ORD000634,10/23/2025,CUST1195,South,Cricket Bat,Sports,10,2571,25710,Completed,Agent_2
+ORD000635,4/27/2025,CUST1334,West,Jeans,Clothing,7,1769,12383,Completed,Agent_14
+ORD000636,10/4/2025,CUST1289,East,Smartwatch,Electronics,1,7687,7687,Completed,Agent_3
+ORD000637,8/17/2025,CUST1304,North,Office Chair,Furniture,1,7243,7243,Returned,Agent_10
+ORD000638,6/22/2025,CUST1042,South,Desk,Furniture,5,12687,63435,Completed,Agent_8
+ORD000639,12/24/2025,CUST1066,East,Smartwatch,Electronics,5,7336,36680,Completed,Agent_13
+ORD000640,10/15/2025,CUST1315,North,Cricket Bat,Sports,8,2447,19576,Completed,Agent_12
+ORD000641,10/22/2025,CUST1045,South,Office Chair,Furniture,5,7387,36935,Completed,Agent_2
+ORD000642,12/2/2025,CUST1012,East,Cooking Oil,Grocery,6,1688,10128,Completed,Agent_13
+ORD000643,4/30/2025,CUST1102,North,Jacket,Clothing,8,3586,28688,Completed,Agent_11
+ORD000644,3/17/2025,CUST1147,South,Laptop,Electronics,1,52173,52173,Completed,Agent_1
+ORD000645,10/3/2025,CUST1108,North,Headphones,Electronics,8,2982,23856,Completed,Agent_4
+ORD000646,12/22/2025,CUST1342,South,Jacket,Clothing,8,3586,28688,Returned,Agent_1
+ORD000647,12/23/2025,CUST1316,South,Cricket Bat,Sports,5,2335,11675,Completed,Agent_5
+ORD000648,12/4/2025,CUST1184,North,Laptop,Electronics,7,56764,397348,Completed,Agent_14
+ORD000649,12/30/2025,CUST1050,North,Jacket,Clothing,7,3311,23177,Completed,Agent_15
+ORD000650,8/23/2025,CUST1287,North,Yoga Mat,Sports,2,1405,2810,Completed,Agent_15
+ORD000651,3/22/2025,CUST1009,East,Smartphone,Electronics,9,24024,216216,Completed,Agent_6
+ORD000652,9/14/2025,CUST1141,East,Jacket,Clothing,5,3315,16575,Returned,Agent_13
+ORD000653,4/26/2025,CUST1077,North,Jeans,Clothing,1,1959,1959,Cancelled,Agent_6
+ORD000654,11/17/2025,CUST1116,West,Office Chair,Furniture,7,7029,49203,Completed,Agent_7
+ORD000655,10/5/2025,CUST1067,North,Desk,Furniture,5,12983,64915,Completed,Agent_4
+ORD000656,12/28/2025,CUST1268,East,Yoga Mat,Sports,4,1608,6432,Completed,Agent_15
+ORD000657,10/13/2025,CUST1272,North,Bookshelf,Furniture,10,9750,97500,Completed,Agent_12
+ORD000658,7/31/2025,CUST1210,North,T-Shirt,Clothing,1,842,842,Completed,Agent_5
+ORD000659,11/10/2025,CUST1315,South,T-Shirt,Clothing,4,737,2948,Completed,Agent_5
+ORD000660,7/3/2025,CUST1040,East,Cricket Bat,Sports,10,2366,23660,Completed,Agent_12
+ORD000661,4/5/2025,CUST1198,West,Bookshelf,Furniture,10,8943,89430,Completed,Agent_8
+ORD000662,1/8/2025,CUST1138,South,Office Chair,Furniture,4,6345,25380,Cancelled,Agent_7
+ORD000663,8/13/2025,CUST1315,North,Office Chair,Furniture,2,6547,13094,Returned,Agent_8
+ORD000664,7/14/2025,CUST1160,East,Rice Bag,Grocery,7,1177,8239,Completed,Agent_7
+ORD000665,1/20/2025,CUST1266,East,Yoga Mat,Sports,9,1507,13563,Returned,Agent_2
+ORD000666,1/21/2025,CUST1285,South,Smartphone,Electronics,9,25189,226701,Returned,Agent_7
+ORD000667,5/27/2025,CUST1236,South,Smartphone,Electronics,5,24697,123485,Cancelled,Agent_3
+ORD000668,11/27/2025,CUST1231,South,Cricket Bat,Sports,9,2701,24309,Completed,Agent_2
+ORD000669,3/11/2025,CUST1201,East,Smartphone,Electronics,10,27189,271890,Completed,Agent_7
+ORD000670,4/14/2025,CUST1232,North,Smartphone,Electronics,8,25451,203608,Completed,Agent_2
+ORD000671,11/21/2025,CUST1185,North,Bookshelf,Furniture,2,8264,16528,Completed,Agent_2
+ORD000672,10/9/2025,CUST1194,South,Tea Pack,Grocery,9,511,4599,Completed,Agent_1
+ORD000673,12/31/2025,CUST1026,West,Jacket,Clothing,3,3263,9789,Completed,Agent_7
+ORD000674,4/14/2025,CUST1001,North,Cooking Oil,Grocery,3,1662,4986,Completed,Agent_10
+ORD000675,1/3/2025,CUST1311,West,Smartwatch,Electronics,8,8568,68544,Completed,Agent_15
+ORD000676,11/4/2025,CUST1307,South,Bookshelf,Furniture,8,8916,71328,Completed,Agent_1
+ORD000677,4/17/2025,CUST1025,North,Football,Sports,10,1230,12300,Completed,Agent_3
+ORD000678,11/5/2025,CUST1152,North,T-Shirt,Clothing,3,856,2568,Completed,Agent_6
+ORD000679,5/26/2025,CUST1312,West,Laptop,Electronics,7,60431,423017,Completed,Agent_11
+ORD000680,10/24/2025,CUST1184,East,Yoga Mat,Sports,9,1403,12627,Completed,Agent_15
+ORD000681,8/7/2025,CUST1281,North,Jeans,Clothing,6,1943,11658,Completed,Agent_2
+ORD000682,4/18/2025,CUST1107,North,Office Chair,Furniture,5,6760,33800,Completed,Agent_10
+ORD000683,12/19/2025,CUST1309,North,Yoga Mat,Sports,9,1646,14814,Completed,Agent_15
+ORD000684,10/22/2025,CUST1319,West,Jeans,Clothing,10,1925,19250,Completed,Agent_6
+ORD000685,9/10/2025,CUST1092,West,Yoga Mat,Sports,8,1505,12040,Completed,Agent_15
+ORD000686,3/2/2025,CUST1106,East,T-Shirt,Clothing,1,738,738,Completed,Agent_13
+ORD000687,11/23/2025,CUST1108,East,Cooking Oil,Grocery,1,1740,1740,Completed,Agent_1
+ORD000688,6/15/2025,CUST1003,East,Jeans,Clothing,2,1730,3460,Completed,Agent_2
+ORD000689,3/31/2025,CUST1099,East,Jeans,Clothing,10,1841,18410,Completed,Agent_6
+ORD000690,11/18/2025,CUST1235,West,Cooking Oil,Grocery,1,1852,1852,Completed,Agent_15
+ORD000691,9/24/2025,CUST1153,West,Jeans,Clothing,7,1954,13678,Completed,Agent_10
+ORD000692,6/19/2025,CUST1181,East,Jacket,Clothing,9,3163,28467,Completed,Agent_2
+ORD000693,3/26/2025,CUST1292,West,T-Shirt,Clothing,6,877,5262,Completed,Agent_10
+ORD000694,1/17/2025,CUST1139,South,Cricket Bat,Sports,5,2602,13010,Completed,Agent_7
+ORD000695,9/26/2025,CUST1154,North,Desk,Furniture,8,12790,102320,Completed,Agent_3
+ORD000696,9/5/2025,CUST1256,North,Smartphone,Electronics,2,24718,49436,Completed,Agent_3
+ORD000697,2/20/2025,CUST1264,North,Tea Pack,Grocery,9,481,4329,Completed,Agent_11
+ORD000698,9/25/2025,CUST1059,West,Bookshelf,Furniture,1,8926,8926,Completed,Agent_1
+ORD000699,9/24/2025,CUST1337,North,Laptop,Electronics,6,54635,327810,Completed,Agent_12
+ORD000700,5/22/2025,CUST1272,North,Football,Sports,4,1157,4628,Completed,Agent_6
+ORD000701,11/15/2025,CUST1286,West,Headphones,Electronics,3,2794,8382,Completed,Agent_9
+ORD000702,12/27/2025,CUST1145,North,Football,Sports,9,1156,10404,Completed,Agent_10
+ORD000703,1/26/2025,CUST1066,North,Headphones,Electronics,10,3235,32350,Completed,Agent_1
+ORD000704,4/2/2025,CUST1305,South,Laptop,Electronics,7,50091,350637,Completed,Agent_15
+ORD000705,12/10/2025,CUST1273,East,Tea Pack,Grocery,6,481,2886,Cancelled,Agent_2
+ORD000706,12/24/2025,CUST1239,West,Tea Pack,Grocery,3,459,1377,Completed,Agent_2
+ORD000707,11/12/2025,CUST1132,South,Cooking Oil,Grocery,4,1961,7844,Completed,Agent_15
+ORD000708,8/21/2025,CUST1249,South,Bookshelf,Furniture,6,9519,57114,Cancelled,Agent_1
+ORD000709,6/28/2025,CUST1309,North,Headphones,Electronics,8,2976,23808,Completed,Agent_10
+ORD000710,6/4/2025,CUST1272,North,Smartwatch,Electronics,2,7721,15442,Completed,Agent_8
+ORD000711,9/4/2025,CUST1196,South,Rice Bag,Grocery,10,1138,11380,Completed,Agent_2
+ORD000712,12/22/2025,CUST1120,North,Football,Sports,7,1216,8512,Completed,Agent_3
+ORD000713,10/12/2025,CUST1049,East,Smartwatch,Electronics,2,8147,16294,Completed,Agent_14
+ORD000714,11/2/2025,CUST1194,South,Jeans,Clothing,2,1835,3670,Completed,Agent_6
+ORD000715,11/22/2025,CUST1000,South,Laptop,Electronics,4,58487,233948,Cancelled,Agent_13
+ORD000716,8/17/2025,CUST1100,North,Desk,Furniture,9,11499,103491,Completed,Agent_4
+ORD000717,8/11/2025,CUST1176,East,Jeans,Clothing,10,1905,19050,Completed,Agent_2
+ORD000718,2/1/2025,CUST1189,East,Yoga Mat,Sports,7,1604,11228,Cancelled,Agent_15
+ORD000719,5/25/2025,CUST1015,South,Laptop,Electronics,9,58528,526752,Completed,Agent_4
+ORD000720,8/11/2025,CUST1279,South,Football,Sports,6,1250,7500,Completed,Agent_4
+ORD000721,7/4/2025,CUST1213,East,Rice Bag,Grocery,4,1213,4852,Cancelled,Agent_3
+ORD000722,9/7/2025,CUST1336,North,Office Chair,Furniture,1,6400,6400,Completed,Agent_7
+ORD000723,8/22/2025,CUST1309,West,Office Chair,Furniture,3,7199,21597,Completed,Agent_15
+ORD000724,7/16/2025,CUST1181,South,Desk,Furniture,9,11817,106353,Cancelled,Agent_4
+ORD000725,12/31/2025,CUST1256,North,Cricket Bat,Sports,10,2499,24990,Completed,Agent_5
+ORD000726,9/5/2025,CUST1188,South,Yoga Mat,Sports,6,1360,8160,Completed,Agent_2
+ORD000727,5/24/2025,CUST1238,East,Smartphone,Electronics,9,27417,246753,Returned,Agent_9
+ORD000728,12/9/2025,CUST1039,North,Cricket Bat,Sports,4,2486,9944,Completed,Agent_11
+ORD000729,1/6/2025,CUST1240,East,Football,Sports,10,1092,10920,Completed,Agent_8
+ORD000730,5/31/2025,CUST1148,South,Tea Pack,Grocery,6,492,2952,Returned,Agent_3
+ORD000731,2/1/2025,CUST1322,North,Yoga Mat,Sports,5,1568,7840,Completed,Agent_8
+ORD000732,5/27/2025,CUST1248,East,Cricket Bat,Sports,5,2654,13270,Completed,Agent_2
+ORD000733,5/12/2025,CUST1007,North,Headphones,Electronics,5,2779,13895,Completed,Agent_12
+ORD000734,3/31/2025,CUST1133,North,Bookshelf,Furniture,3,9286,27858,Completed,Agent_13
+ORD000735,2/13/2025,CUST1074,East,Rice Bag,Grocery,9,1286,11574,Completed,Agent_10
+ORD000736,8/14/2025,CUST1326,West,Desk,Furniture,7,12648,88536,Completed,Agent_3
+ORD000737,3/27/2025,CUST1237,North,T-Shirt,Clothing,5,840,4200,Completed,Agent_7
+ORD000738,7/19/2025,CUST1242,South,Tea Pack,Grocery,9,473,4257,Completed,Agent_5
+ORD000739,12/14/2025,CUST1161,North,Rice Bag,Grocery,5,1302,6510,Completed,Agent_9
+ORD000740,8/10/2025,CUST1312,East,Laptop,Electronics,9,56511,508599,Returned,Agent_15
+ORD000741,12/2/2025,CUST1299,East,Jeans,Clothing,5,1716,8580,Completed,Agent_7
+ORD000742,12/13/2025,CUST1092,South,Bookshelf,Furniture,10,9486,94860,Completed,Agent_6
+ORD000743,12/17/2025,CUST1228,South,Laptop,Electronics,1,54023,54023,Completed,Agent_6
+ORD000744,1/30/2025,CUST1304,North,Jeans,Clothing,4,1632,6528,Completed,Agent_11
+ORD000745,11/6/2025,CUST1066,West,Bookshelf,Furniture,2,9374,18748,Completed,Agent_7
+ORD000746,8/28/2025,CUST1338,East,Cricket Bat,Sports,2,2597,5194,Completed,Agent_15
+ORD000747,6/15/2025,CUST1131,North,Cooking Oil,Grocery,7,1869,13083,Completed,Agent_3
+ORD000748,5/13/2025,CUST1135,West,T-Shirt,Clothing,7,782,5474,Returned,Agent_3
+ORD000749,2/25/2025,CUST1073,South,Rice Bag,Grocery,10,1174,11740,Completed,Agent_9
+ORD000750,2/22/2025,CUST1017,West,Bookshelf,Furniture,2,9742,19484,Completed,Agent_2
+ORD000751,11/24/2025,CUST1000,North,Jeans,Clothing,1,1942,1942,Completed,Agent_15
+ORD000752,10/22/2025,CUST1001,North,Cooking Oil,Grocery,3,1872,5616,Cancelled,Agent_9
+ORD000753,2/5/2025,CUST1276,East,Cooking Oil,Grocery,7,1765,12355,Completed,Agent_4
+ORD000754,6/20/2025,CUST1349,North,Rice Bag,Grocery,10,1208,12080,Returned,Agent_5
+ORD000755,8/24/2025,CUST1148,South,Headphones,Electronics,9,3212,28908,Completed,Agent_11
+ORD000756,7/19/2025,CUST1054,North,Cricket Bat,Sports,7,2580,18060,Completed,Agent_11
+ORD000757,4/9/2025,CUST1012,East,Rice Bag,Grocery,8,1256,10048,Completed,Agent_12
+ORD000758,6/7/2025,CUST1255,West,Desk,Furniture,7,10951,76657,Completed,Agent_9
+ORD000759,1/22/2025,CUST1207,West,Rice Bag,Grocery,1,1161,1161,Completed,Agent_2
+ORD000760,2/6/2025,CUST1018,North,Football,Sports,9,1115,10035,Completed,Agent_12
+ORD000761,3/8/2025,CUST1007,North,Smartwatch,Electronics,10,7273,72730,Completed,Agent_3
+ORD000762,2/2/2025,CUST1054,East,T-Shirt,Clothing,8,817,6536,Cancelled,Agent_2
+ORD000763,12/14/2025,CUST1205,South,Cricket Bat,Sports,2,2652,5304,Completed,Agent_6
+ORD000764,4/20/2025,CUST1023,North,Yoga Mat,Sports,3,1446,4338,Returned,Agent_10
+ORD000765,12/23/2025,CUST1189,North,Laptop,Electronics,5,51053,255265,Completed,Agent_9
+ORD000766,11/20/2025,CUST1313,North,Bookshelf,Furniture,1,8340,8340,Completed,Agent_7
+ORD000767,2/15/2025,CUST1333,West,Smartwatch,Electronics,2,7210,14420,Completed,Agent_10
+ORD000768,11/24/2025,CUST1138,West,Tea Pack,Grocery,8,519,4152,Completed,Agent_9
+ORD000769,9/13/2025,CUST1313,South,Office Chair,Furniture,10,7268,72680,Completed,Agent_2
+ORD000770,3/2/2025,CUST1271,East,Jeans,Clothing,7,1621,11347,Completed,Agent_2
+ORD000771,4/17/2025,CUST1141,East,Yoga Mat,Sports,4,1489,5956,Completed,Agent_1
+ORD000772,1/23/2025,CUST1027,North,Bookshelf,Furniture,8,8995,71960,Completed,Agent_11
+ORD000773,8/21/2025,CUST1022,South,Desk,Furniture,5,11602,58010,Cancelled,Agent_2
+ORD000774,3/1/2025,CUST1036,East,Cricket Bat,Sports,3,2642,7926,Completed,Agent_15
+ORD000775,12/13/2025,CUST1166,North,Tea Pack,Grocery,10,482,4820,Completed,Agent_4
+ORD000776,4/13/2025,CUST1192,West,T-Shirt,Clothing,2,757,1514,Completed,Agent_15
+ORD000777,4/21/2025,CUST1312,North,Tea Pack,Grocery,8,455,3640,Completed,Agent_8
+ORD000778,5/19/2025,CUST1103,North,T-Shirt,Clothing,8,835,6680,Completed,Agent_6
+ORD000779,8/23/2025,CUST1214,North,Cricket Bat,Sports,5,2318,11590,Completed,Agent_3
+ORD000780,11/10/2025,CUST1087,West,Desk,Furniture,10,11176,111760,Completed,Agent_10
+ORD000781,4/21/2025,CUST1302,West,Office Chair,Furniture,7,7499,52493,Completed,Agent_8
+ORD000782,6/17/2025,CUST1222,West,T-Shirt,Clothing,7,837,5859,Completed,Agent_10
+ORD000783,1/23/2025,CUST1020,North,Cricket Bat,Sports,10,2699,26990,Completed,Agent_8
+ORD000784,12/23/2025,CUST1050,East,Cricket Bat,Sports,7,2515,17605,Completed,Agent_8
+ORD000785,6/1/2025,CUST1122,South,Laptop,Electronics,7,59949,419643,Completed,Agent_11
+ORD000786,10/20/2025,CUST1298,West,Smartwatch,Electronics,5,7458,37290,Completed,Agent_1
+ORD000787,11/17/2025,CUST1237,West,Rice Bag,Grocery,7,1124,7868,Completed,Agent_12
+ORD000788,5/19/2025,CUST1313,East,Smartwatch,Electronics,6,8049,48294,Completed,Agent_9
+ORD000789,1/29/2025,CUST1263,East,Bookshelf,Furniture,2,9216,18432,Completed,Agent_15
+ORD000790,7/7/2025,CUST1187,East,Laptop,Electronics,7,53521,374647,Completed,Agent_3
+ORD000791,2/28/2025,CUST1332,East,Smartphone,Electronics,3,27406,82218,Completed,Agent_8
+ORD000792,6/14/2025,CUST1180,East,Yoga Mat,Sports,4,1575,6300,Completed,Agent_15
+ORD000793,9/6/2025,CUST1256,North,Cooking Oil,Grocery,1,1642,1642,Completed,Agent_9
+ORD000794,5/30/2025,CUST1231,West,Tea Pack,Grocery,9,517,4653,Completed,Agent_10
+ORD000795,4/2/2025,CUST1147,South,Smartphone,Electronics,8,22936,183488,Completed,Agent_2
+ORD000796,9/24/2025,CUST1321,North,T-Shirt,Clothing,3,799,2397,Completed,Agent_1
+ORD000797,11/27/2025,CUST1010,North,Cricket Bat,Sports,8,2423,19384,Completed,Agent_5
+ORD000798,6/25/2025,CUST1335,North,Smartphone,Electronics,9,25723,231507,Completed,Agent_11
+ORD000799,6/5/2025,CUST1290,West,Tea Pack,Grocery,9,534,4806,Completed,Agent_3
+ORD000800,5/28/2025,CUST1024,West,T-Shirt,Clothing,5,756,3780,Completed,Agent_3
+ORD000801,5/27/2025,CUST1093,South,Rice Bag,Grocery,10,1301,13010,Completed,Agent_3
+ORD000802,10/22/2025,CUST1064,West,Office Chair,Furniture,4,6463,25852,Returned,Agent_8
+ORD000803,6/26/2025,CUST1075,North,Office Chair,Furniture,9,7289,65601,Completed,Agent_6
+ORD000804,9/13/2025,CUST1074,South,Bookshelf,Furniture,5,8318,41590,Completed,Agent_8
+ORD000805,12/28/2025,CUST1151,West,Office Chair,Furniture,9,7665,68985,Completed,Agent_8
+ORD000806,8/15/2025,CUST1173,West,Yoga Mat,Sports,3,1589,4767,Completed,Agent_12
+ORD000807,1/13/2025,CUST1205,North,Rice Bag,Grocery,3,1242,3726,Completed,Agent_10
+ORD000808,4/10/2025,CUST1298,West,Cooking Oil,Grocery,2,1737,3474,Completed,Agent_9
+ORD000809,12/13/2025,CUST1343,North,T-Shirt,Clothing,1,733,733,Completed,Agent_2
+ORD000810,1/29/2025,CUST1341,West,Rice Bag,Grocery,8,1156,9248,Completed,Agent_6
+ORD000811,6/29/2025,CUST1157,South,Cooking Oil,Grocery,7,1754,12278,Completed,Agent_8
+ORD000812,8/15/2025,CUST1147,West,Smartphone,Electronics,8,26207,209656,Completed,Agent_3
+ORD000813,2/14/2025,CUST1073,West,Tea Pack,Grocery,7,463,3241,Completed,Agent_4
+ORD000814,7/12/2025,CUST1045,North,Football,Sports,2,1303,2606,Completed,Agent_1
+ORD000815,3/12/2025,CUST1102,South,Jeans,Clothing,3,1820,5460,Completed,Agent_3
+ORD000816,10/27/2025,CUST1155,West,Jacket,Clothing,8,3179,25432,Completed,Agent_8
+ORD000817,6/3/2025,CUST1327,East,Rice Bag,Grocery,1,1269,1269,Completed,Agent_14
+ORD000818,11/27/2025,CUST1125,East,Headphones,Electronics,7,2807,19649,Returned,Agent_1
+ORD000819,9/4/2025,CUST1289,North,Jeans,Clothing,2,1835,3670,Completed,Agent_7
+ORD000820,1/9/2025,CUST1132,West,Tea Pack,Grocery,2,487,974,Completed,Agent_3
+ORD000821,3/25/2025,CUST1027,East,Desk,Furniture,8,12907,103256,Completed,Agent_5
+ORD000822,2/9/2025,CUST1263,South,T-Shirt,Clothing,5,766,3830,Completed,Agent_4
+ORD000823,6/11/2025,CUST1154,West,Office Chair,Furniture,10,7353,73530,Completed,Agent_5
+ORD000824,1/7/2025,CUST1070,East,T-Shirt,Clothing,9,812,7308,Cancelled,Agent_9
+ORD000825,4/22/2025,CUST1079,North,Cooking Oil,Grocery,6,1951,11706,Completed,Agent_9
+ORD000826,9/30/2025,CUST1282,North,Bookshelf,Furniture,10,9341,93410,Returned,Agent_12
+ORD000827,3/9/2025,CUST1008,West,Smartwatch,Electronics,8,8665,69320,Completed,Agent_8
+ORD000828,6/25/2025,CUST1088,North,T-Shirt,Clothing,8,862,6896,Completed,Agent_12
+ORD000829,4/27/2025,CUST1157,North,Smartphone,Electronics,3,26784,80352,Completed,Agent_3
+ORD000830,8/9/2025,CUST1021,North,Smartwatch,Electronics,2,7324,14648,Completed,Agent_4
+ORD000831,1/23/2025,CUST1033,North,Yoga Mat,Sports,1,1490,1490,Cancelled,Agent_5
+ORD000832,4/5/2025,CUST1343,East,Laptop,Electronics,10,51759,517590,Returned,Agent_6
+ORD000833,3/24/2025,CUST1256,North,Bookshelf,Furniture,5,9807,49035,Completed,Agent_13
+ORD000834,1/8/2025,CUST1270,East,Bookshelf,Furniture,10,8223,82230,Cancelled,Agent_4
+ORD000835,4/20/2025,CUST1258,East,T-Shirt,Clothing,9,720,6480,Completed,Agent_14
+ORD000836,2/24/2025,CUST1092,East,Jacket,Clothing,10,3279,32790,Completed,Agent_14
+ORD000837,6/10/2025,CUST1063,South,Cooking Oil,Grocery,4,1805,7220,Completed,Agent_8
+ORD000838,1/21/2025,CUST1042,North,Desk,Furniture,6,12491,74946,Completed,Agent_6
+ORD000839,8/16/2025,CUST1115,South,Cooking Oil,Grocery,8,1836,14688,Completed,Agent_9
+ORD000840,12/14/2025,CUST1188,South,Rice Bag,Grocery,2,1294,2588,Cancelled,Agent_3
+ORD000841,12/13/2025,CUST1043,North,Tea Pack,Grocery,2,489,978,Completed,Agent_2
+ORD000842,3/28/2025,CUST1033,North,Tea Pack,Grocery,10,547,5470,Completed,Agent_6
+ORD000843,4/30/2025,CUST1217,West,T-Shirt,Clothing,10,855,8550,Completed,Agent_12
+ORD000844,7/24/2025,CUST1182,South,Yoga Mat,Sports,5,1576,7880,Cancelled,Agent_8
+ORD000845,2/25/2025,CUST1062,East,Cooking Oil,Grocery,9,1720,15480,Completed,Agent_5
+ORD000846,2/4/2025,CUST1255,South,Bookshelf,Furniture,3,8153,24459,Cancelled,Agent_11
+ORD000847,11/15/2025,CUST1319,North,Desk,Furniture,10,12430,124300,Completed,Agent_2
+ORD000848,9/9/2025,CUST1258,West,Football,Sports,8,1128,9024,Completed,Agent_5
+ORD000849,8/9/2025,CUST1060,South,Yoga Mat,Sports,1,1635,1635,Completed,Agent_7
+ORD000850,12/4/2025,CUST1155,South,Cooking Oil,Grocery,8,1632,13056,Completed,Agent_15
+ORD000851,2/26/2025,CUST1291,East,Cooking Oil,Grocery,3,1732,5196,Completed,Agent_11
+ORD000852,3/22/2025,CUST1259,South,Yoga Mat,Sports,9,1521,13689,Completed,Agent_1
+ORD000853,5/26/2025,CUST1164,South,Tea Pack,Grocery,7,511,3577,Completed,Agent_1
+ORD000854,1/14/2025,CUST1320,North,Smartphone,Electronics,6,24244,145464,Completed,Agent_6
+ORD000855,5/6/2025,CUST1126,South,Cooking Oil,Grocery,6,1768,10608,Completed,Agent_4
+ORD000856,3/28/2025,CUST1010,East,Cricket Bat,Sports,2,2684,5368,Completed,Agent_9
+ORD000857,5/17/2025,CUST1010,North,Tea Pack,Grocery,7,506,3542,Cancelled,Agent_12
+ORD000858,2/20/2025,CUST1250,South,Headphones,Electronics,7,3042,21294,Completed,Agent_2
+ORD000859,6/23/2025,CUST1085,East,Desk,Furniture,8,12006,96048,Completed,Agent_10
+ORD000860,2/8/2025,CUST1274,North,Rice Bag,Grocery,8,1232,9856,Returned,Agent_4
+ORD000861,2/17/2025,CUST1296,North,Headphones,Electronics,10,2941,29410,Completed,Agent_2
+ORD000862,4/18/2025,CUST1177,East,T-Shirt,Clothing,10,848,8480,Completed,Agent_13
+ORD000863,4/13/2025,CUST1212,North,Jacket,Clothing,5,3453,17265,Completed,Agent_7
+ORD000864,12/27/2025,CUST1264,North,Football,Sports,9,1123,10107,Completed,Agent_14
+ORD000865,11/11/2025,CUST1222,North,Rice Bag,Grocery,8,1144,9152,Completed,Agent_15
+ORD000866,12/17/2025,CUST1153,East,Smartphone,Electronics,6,24812,148872,Completed,Agent_14
+ORD000867,5/27/2025,CUST1330,South,T-Shirt,Clothing,4,855,3420,Completed,Agent_3
+ORD000868,1/15/2025,CUST1125,North,Cricket Bat,Sports,7,2369,16583,Completed,Agent_13
+ORD000869,1/19/2025,CUST1103,West,Cooking Oil,Grocery,9,1976,17784,Completed,Agent_3
+ORD000870,1/22/2025,CUST1248,North,Headphones,Electronics,5,3095,15475,Completed,Agent_13
+ORD000871,7/28/2025,CUST1186,North,Headphones,Electronics,10,2878,28780,Completed,Agent_11
+ORD000872,9/14/2025,CUST1061,East,Smartwatch,Electronics,3,7577,22731,Completed,Agent_9
+ORD000873,11/4/2025,CUST1062,East,Yoga Mat,Sports,5,1498,7490,Completed,Agent_13
+ORD000874,8/5/2025,CUST1111,West,Jacket,Clothing,7,3714,25998,Completed,Agent_3
+ORD000875,1/29/2025,CUST1251,North,Desk,Furniture,8,11780,94240,Completed,Agent_9
+ORD000876,5/23/2025,CUST1074,South,Headphones,Electronics,9,2954,26586,Completed,Agent_6
+ORD000877,1/18/2025,CUST1339,South,Jeans,Clothing,1,1852,1852,Cancelled,Agent_13
+ORD000878,12/25/2025,CUST1185,West,Desk,Furniture,9,11723,105507,Completed,Agent_15
+ORD000879,7/21/2025,CUST1130,West,Smartphone,Electronics,8,24442,195536,Cancelled,Agent_5
+ORD000880,8/13/2025,CUST1323,North,Desk,Furniture,4,12862,51448,Completed,Agent_6
+ORD000881,9/9/2025,CUST1241,West,Rice Bag,Grocery,5,1287,6435,Completed,Agent_12
+ORD000882,3/24/2025,CUST1133,South,Jacket,Clothing,7,3763,26341,Cancelled,Agent_9
+ORD000883,1/15/2025,CUST1026,North,Tea Pack,Grocery,9,523,4707,Completed,Agent_11
+ORD000884,6/6/2025,CUST1160,East,Tea Pack,Grocery,3,450,1350,Completed,Agent_10
+ORD000885,11/29/2025,CUST1066,North,Office Chair,Furniture,9,7298,65682,Completed,Agent_14
+ORD000886,5/14/2025,CUST1088,East,Cooking Oil,Grocery,8,1792,14336,Completed,Agent_11
+ORD000887,7/21/2025,CUST1193,East,Jeans,Clothing,4,1650,6600,Completed,Agent_14
+ORD000888,11/17/2025,CUST1117,West,Office Chair,Furniture,1,7592,7592,Completed,Agent_15
+ORD000889,7/25/2025,CUST1316,North,Rice Bag,Grocery,5,1248,6240,Completed,Agent_7
+ORD000890,1/8/2025,CUST1269,East,Office Chair,Furniture,6,6538,39228,Completed,Agent_7
+ORD000891,4/8/2025,CUST1136,West,Tea Pack,Grocery,8,461,3688,Completed,Agent_5
+ORD000892,5/25/2025,CUST1346,East,Rice Bag,Grocery,7,1285,8995,Completed,Agent_4
+ORD000893,11/13/2025,CUST1230,South,Rice Bag,Grocery,1,1149,1149,Completed,Agent_15
+ORD000894,6/15/2025,CUST1203,North,Yoga Mat,Sports,8,1375,11000,Completed,Agent_11
+ORD000895,2/18/2025,CUST1285,North,Tea Pack,Grocery,7,523,3661,Completed,Agent_1
+ORD000896,11/3/2025,CUST1023,North,Desk,Furniture,6,13192,79152,Cancelled,Agent_1
+ORD000897,3/9/2025,CUST1286,North,Football,Sports,5,1314,6570,Completed,Agent_1
+ORD000898,8/28/2025,CUST1067,East,T-Shirt,Clothing,9,798,7182,Completed,Agent_2
+ORD000899,3/7/2025,CUST1255,North,Football,Sports,3,1142,3426,Completed,Agent_14
+ORD000900,5/15/2025,CUST1313,West,Jacket,Clothing,6,3798,22788,Completed,Agent_14
+ORD000901,9/9/2025,CUST1077,West,Jacket,Clothing,6,3455,20730,Completed,Agent_9
+ORD000902,1/19/2025,CUST1240,West,Rice Bag,Grocery,4,1115,4460,Completed,Agent_5
+ORD000903,1/21/2025,CUST1226,North,Cooking Oil,Grocery,2,1978,3956,Cancelled,Agent_6
+ORD000904,3/17/2025,CUST1063,West,Football,Sports,8,1198,9584,Completed,Agent_6
+ORD000905,10/16/2025,CUST1339,North,T-Shirt,Clothing,3,839,2517,Completed,Agent_10
+ORD000906,9/13/2025,CUST1346,North,Smartphone,Electronics,7,27102,189714,Completed,Agent_2
+ORD000907,2/24/2025,CUST1165,West,Headphones,Electronics,2,2936,5872,Completed,Agent_3
+ORD000908,11/1/2025,CUST1336,North,Tea Pack,Grocery,8,495,3960,Returned,Agent_1
+ORD000909,10/19/2025,CUST1066,North,Smartwatch,Electronics,6,8715,52290,Returned,Agent_4
+ORD000910,11/5/2025,CUST1195,West,Jeans,Clothing,1,1887,1887,Completed,Agent_2
+ORD000911,3/25/2025,CUST1198,South,Office Chair,Furniture,7,6424,44968,Cancelled,Agent_13
+ORD000912,6/8/2025,CUST1308,South,Office Chair,Furniture,5,6987,34935,Completed,Agent_3
+ORD000913,7/18/2025,CUST1243,South,Headphones,Electronics,9,2819,25371,Completed,Agent_5
+ORD000914,8/11/2025,CUST1322,East,Rice Bag,Grocery,7,1274,8918,Completed,Agent_7
+ORD000915,3/21/2025,CUST1253,North,Football,Sports,8,1242,9936,Completed,Agent_9
+ORD000916,9/2/2025,CUST1153,East,Cricket Bat,Sports,5,2484,12420,Completed,Agent_3
+ORD000917,10/10/2025,CUST1039,West,T-Shirt,Clothing,9,788,7092,Completed,Agent_15
+ORD000918,10/19/2025,CUST1129,North,Smartwatch,Electronics,7,7351,51457,Completed,Agent_6
+ORD000919,4/4/2025,CUST1201,North,Laptop,Electronics,2,57645,115290,Completed,Agent_1
+ORD000920,8/19/2025,CUST1319,North,Jeans,Clothing,10,1880,18800,Completed,Agent_13
+ORD000921,5/13/2025,CUST1344,North,Office Chair,Furniture,3,6409,19227,Returned,Agent_2
+ORD000922,9/2/2025,CUST1235,South,Laptop,Electronics,7,50783,355481,Completed,Agent_12
+ORD000923,11/12/2025,CUST1184,South,Yoga Mat,Sports,8,1440,11520,Cancelled,Agent_12
+ORD000924,2/27/2025,CUST1008,East,Cooking Oil,Grocery,2,1665,3330,Completed,Agent_12
+ORD000925,8/12/2025,CUST1320,West,Smartphone,Electronics,8,25743,205944,Completed,Agent_14
+ORD000926,8/5/2025,CUST1011,West,Office Chair,Furniture,5,7377,36885,Completed,Agent_2
+ORD000927,8/19/2025,CUST1299,North,Bookshelf,Furniture,8,9834,78672,Completed,Agent_4
+ORD000928,8/10/2025,CUST1212,North,Football,Sports,1,1160,1160,Completed,Agent_14
+ORD000929,7/24/2025,CUST1248,South,Yoga Mat,Sports,9,1649,14841,Completed,Agent_9
+ORD000930,1/10/2025,CUST1216,East,Yoga Mat,Sports,8,1419,11352,Completed,Agent_10
+ORD000931,11/15/2025,CUST1330,North,Headphones,Electronics,7,3233,22631,Completed,Agent_6
+ORD000932,6/26/2025,CUST1224,South,Rice Bag,Grocery,3,1149,3447,Completed,Agent_4
+ORD000933,12/3/2025,CUST1239,South,Yoga Mat,Sports,6,1626,9756,Cancelled,Agent_3
+ORD000934,3/24/2025,CUST1318,West,Cooking Oil,Grocery,6,1906,11436,Completed,Agent_4
+ORD000935,9/9/2025,CUST1051,North,Smartwatch,Electronics,3,7477,22431,Completed,Agent_13
+ORD000936,1/10/2025,CUST1183,South,Cooking Oil,Grocery,4,1695,6780,Completed,Agent_15
+ORD000937,8/9/2025,CUST1058,North,Office Chair,Furniture,9,6344,57096,Completed,Agent_10
+ORD000938,7/1/2025,CUST1023,North,Cricket Bat,Sports,8,2378,19024,Completed,Agent_13
+ORD000939,1/26/2025,CUST1224,West,T-Shirt,Clothing,9,816,7344,Completed,Agent_13
+ORD000940,2/22/2025,CUST1287,South,Laptop,Electronics,10,56206,562060,Cancelled,Agent_1
+ORD000941,3/22/2025,CUST1149,South,Bookshelf,Furniture,2,9667,19334,Cancelled,Agent_12
+ORD000942,3/12/2025,CUST1062,South,Football,Sports,2,1117,2234,Completed,Agent_14
+ORD000943,5/27/2025,CUST1258,North,Rice Bag,Grocery,4,1280,5120,Completed,Agent_3
+ORD000944,3/19/2025,CUST1271,North,Jacket,Clothing,7,3402,23814,Completed,Agent_7
+ORD000945,9/22/2025,CUST1349,West,Desk,Furniture,7,13003,91021,Completed,Agent_6
+ORD000946,2/5/2025,CUST1043,West,Rice Bag,Grocery,1,1252,1252,Completed,Agent_6
+ORD000947,11/25/2025,CUST1077,North,Desk,Furniture,1,11743,11743,Completed,Agent_15
+ORD000948,10/11/2025,CUST1155,East,Football,Sports,7,1176,8232,Completed,Agent_12
+ORD000949,3/17/2025,CUST1206,East,T-Shirt,Clothing,5,864,4320,Completed,Agent_8
+ORD000950,11/29/2025,CUST1207,East,Yoga Mat,Sports,10,1545,15450,Completed,Agent_13
+ORD000951,3/6/2025,CUST1266,North,T-Shirt,Clothing,1,805,805,Completed,Agent_9
+ORD000952,1/12/2025,CUST1014,North,Headphones,Electronics,9,2904,26136,Completed,Agent_15
+ORD000953,8/5/2025,CUST1258,West,Football,Sports,4,1279,5116,Completed,Agent_2
+ORD000954,11/30/2025,CUST1063,East,Jeans,Clothing,9,1747,15723,Completed,Agent_8
+ORD000955,10/25/2025,CUST1289,North,Smartwatch,Electronics,6,8772,52632,Completed,Agent_12
+ORD000956,10/21/2025,CUST1344,West,Yoga Mat,Sports,4,1455,5820,Completed,Agent_3
+ORD000957,4/9/2025,CUST1184,East,Yoga Mat,Sports,4,1381,5524,Completed,Agent_8
+ORD000958,3/8/2025,CUST1243,North,Cooking Oil,Grocery,2,1653,3306,Completed,Agent_4
+ORD000959,7/22/2025,CUST1135,South,Jacket,Clothing,9,3431,30879,Completed,Agent_10
+ORD000960,3/25/2025,CUST1073,South,Cooking Oil,Grocery,8,1883,15064,Completed,Agent_9
+ORD000961,4/19/2025,CUST1233,North,Rice Bag,Grocery,9,1287,11583,Completed,Agent_8
+ORD000962,7/29/2025,CUST1056,North,Bookshelf,Furniture,6,9759,58554,Completed,Agent_2
+ORD000963,7/11/2025,CUST1155,South,T-Shirt,Clothing,9,744,6696,Completed,Agent_5
+ORD000964,6/6/2025,CUST1145,South,Office Chair,Furniture,10,6890,68900,Returned,Agent_4
+ORD000965,1/23/2025,CUST1213,North,Rice Bag,Grocery,2,1211,2422,Completed,Agent_8
+ORD000966,11/7/2025,CUST1067,East,Football,Sports,6,1267,7602,Completed,Agent_13
+ORD000967,2/15/2025,CUST1319,North,Cooking Oil,Grocery,8,1673,13384,Completed,Agent_11
+ORD000968,12/10/2025,CUST1226,East,Rice Bag,Grocery,7,1161,8127,Completed,Agent_12
+ORD000969,12/29/2025,CUST1158,North,Smartphone,Electronics,1,25359,25359,Completed,Agent_9
+ORD000970,1/28/2025,CUST1291,East,Cricket Bat,Sports,4,2727,10908,Completed,Agent_9
+ORD000971,4/3/2025,CUST1009,North,Tea Pack,Grocery,1,462,462,Cancelled,Agent_5
+ORD000972,11/7/2025,CUST1164,West,Bookshelf,Furniture,10,8899,88990,Completed,Agent_7
+ORD000973,9/28/2025,CUST1162,East,Rice Bag,Grocery,6,1184,7104,Completed,Agent_7
+ORD000974,5/11/2025,CUST1045,North,Laptop,Electronics,9,51349,462141,Completed,Agent_3
+ORD000975,4/3/2025,CUST1013,North,Tea Pack,Grocery,3,455,1365,Returned,Agent_12
+ORD000976,5/13/2025,CUST1192,North,Rice Bag,Grocery,6,1114,6684,Completed,Agent_14
+ORD000977,9/10/2025,CUST1260,West,Smartphone,Electronics,4,26260,105040,Completed,Agent_13
+ORD000978,2/3/2025,CUST1247,South,Headphones,Electronics,1,2891,2891,Completed,Agent_1
+ORD000979,2/21/2025,CUST1126,South,Office Chair,Furniture,5,7075,35375,Completed,Agent_13
+ORD000980,11/22/2025,CUST1256,East,Desk,Furniture,10,11776,117760,Completed,Agent_4
+ORD000981,10/3/2025,CUST1216,West,Desk,Furniture,9,13164,118476,Completed,Agent_15
+ORD000982,12/1/2025,CUST1085,East,Laptop,Electronics,8,60072,480576,Completed,Agent_1
+ORD000983,6/29/2025,CUST1323,North,Cooking Oil,Grocery,10,1710,17100,Completed,Agent_4
+ORD000984,2/5/2025,CUST1153,East,Football,Sports,1,1118,1118,Completed,Agent_2
+ORD000985,4/18/2025,CUST1312,South,Smartphone,Electronics,9,27494,247446,Cancelled,Agent_9
+ORD000986,12/29/2025,CUST1231,West,Jacket,Clothing,6,3594,21564,Returned,Agent_5
+ORD000987,1/9/2025,CUST1068,North,Jeans,Clothing,4,1785,7140,Completed,Agent_11
+ORD000988,7/31/2025,CUST1284,West,Football,Sports,1,1296,1296,Completed,Agent_15
+ORD000989,11/30/2025,CUST1039,East,Cooking Oil,Grocery,9,1649,14841,Returned,Agent_9
+ORD000990,11/4/2025,CUST1183,North,Tea Pack,Grocery,2,485,970,Completed,Agent_7
+ORD000991,1/5/2025,CUST1113,North,Laptop,Electronics,8,53575,428600,Completed,Agent_12
+ORD000992,11/17/2025,CUST1155,North,Jacket,Clothing,6,3284,19704,Completed,Agent_13
+ORD000993,12/27/2025,CUST1310,East,Desk,Furniture,6,10888,65328,Completed,Agent_4
+ORD000994,10/10/2025,CUST1099,North,Rice Bag,Grocery,5,1216,6080,Completed,Agent_11
+ORD000995,2/3/2025,CUST1065,East,Yoga Mat,Sports,3,1369,4107,Completed,Agent_5
+ORD000996,12/21/2025,CUST1347,West,Bookshelf,Furniture,5,8445,42225,Completed,Agent_9
+ORD000997,11/29/2025,CUST1026,East,Football,Sports,1,1305,1305,Completed,Agent_14
+ORD000998,9/11/2025,CUST1185,West,Cooking Oil,Grocery,5,1663,8315,Completed,Agent_9
+ORD000999,6/11/2025,CUST1002,West,Office Chair,Furniture,5,7585,37925,Completed,Agent_7
+ORD001000,2/8/2025,CUST1127,North,Laptop,Electronics,4,60259,241036,Completed,Agent_4
